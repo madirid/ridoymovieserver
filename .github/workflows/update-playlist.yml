@@ -28,7 +28,7 @@ jobs:
         run: pip install requests
 
       - name: Run processor
-        run: python processor.py
+        run: python check_playlist.py
 
       - name: Commit and push updated playlist
         run: |
