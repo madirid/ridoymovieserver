@@ -27,7 +27,7 @@ jobs:
         run: pip install requests
 
       - name: Run IPTV Engine
-        run: python processor.py
+        run: python check_playlist.py
 
       - name: Commit output
         run: |
