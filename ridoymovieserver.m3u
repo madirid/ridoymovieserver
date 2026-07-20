@@ -1,571 +1,569 @@
 #EXTM3U
 #PLAYLIST RidoyMovieServer
-# Auto-generated  :  2026-07-20 01:17 UTC
-# Working streams :  283
+# Auto-generated  :  2026-07-20 13:31 UTC
+# Working streams :  282
 
 #EXTINF:0,tvg-logo="https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg",Md.Mahabubul Alam Mim
 https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xa2xybnRYMXVlVGlIcWswbGJKNXlvUW9ROXU5SDRjNUsvdmlldw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGEyMzAxZTEtNTMzZi00NTU5LTg2OTktNzM2YTYxMzdkODE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",System
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA5MDE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEyMDRmYTMtZjNhYy00Mjc0LTg4NDItYWE5NzE1ZDE3NjM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Daadi Ki Shaadi
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4OTg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUWpGcjN5c0JFd21OVklyQUJLeUZPVFVzTFBUWWxsNzl6X3JwaDZ0SHo4VHZ4OXFydHM4WjlTLWZFJnM9MTA" group-title="Hindi Movies",Cocktail 2
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA5Nzc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2VlMTM0OTEtYmU1My00ODBhLTk2MzItMDlkMDRiZjcwYWQ1XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Aakhri Sawal
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4OTk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Y3NjRhYmMtNWVjMy00ZmE1LWJkNGYtNDY3Y2I3NjkzOGE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Bhooth Bangla
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4MTM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzIwMzcwNzEtYzU4ZS00ZjhjLWFlYTAtMzc4Y2RjMDFjNDNlXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Chand Mera Dil
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA5MTQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWE1OTg5ZDMtYjllZC00YzE2LTg1N2UtZmI0OTBmMWE3NzFkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Hai Jawani Toh Ishq Hona Hai
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA5MzU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTFjODQwNWYtMzMyOC00MzhhLWE1OTgtYmZjMzNjYjBhOTllXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Accused
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA2NTQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Toaster_film_poster.jpg/250px-Toaster_film_poster.jpg" group-title="Hindi Movies",Toaster
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA3OTU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY5ODUxNDctZGJjNC00OTk0LWIzMzAtMWQ5NTAyMGZhY2NmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Welcome to the Jungle
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA5OTM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODA0ZWI5YTktZmE3Ny00NTUyLWEwZGMtNjEyMWZhZDhmNGRlXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",The Kerala Story 2 Goes Beyond
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA2NzM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQ5MzQ5ZDAtOTlkMi00YmIwLWI3MzctZGM5OGQ5OWU2MjJiXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Border 2
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA1NjU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTQzZTgyODItYzg5My00YzhhLWFlYzctYTljM2E5NWI5NDcyXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",O' Romeo
 https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA2NDA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjZjYjhmOTUtNDg2MS00YjcwLTg4NzMtMWY1OTA4NWU0MDVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Toh, Ti ani Fuji
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4MTE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmEwNTU4MzEtY2Y4Ni00ZWRmLThhMGMtMDE5MTZmMDIzMGVjXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Raja Shivaji
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4Njc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGEyMDRmYTMtZjNhYy00Mjc0LTg4NDItYWE5NzE1ZDE3NjM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Daadi Ki Shaadi
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4OTg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzJlYjZkMDUtM2MzMi00NmVhLWJhYWYtYzI4NTA4ZGIxZjM3XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Rahu Ketu
 https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA1NjQ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTU5NzQwMTktZTVhOC00MjllLThjZDEtMGNkYjgwNWFhMmVmXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Bhabiji Ghar Par Hain - Fun on the Run
 https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA2MDU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGM5M2I0YWEtMjNlOS00ZmIwLThiYjYtODA5ODAzYTc3ZDU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Indian Institute of Zombies
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA5MDA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTNiNzcxMDQtY2RlOS00MjAxLWIyN2MtNTYyMmIyMDM0ZDJhXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Lucky
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA2Mzk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE0ZTA5MTgtNTE4NC00NThmLWFiM2EtZTI2MTc2Y2FmZjkwXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Pati Patni Aur Woh Do
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4ODU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjc4ZmY1ZGEtZmRmYi00OTQzLTliY2MtMzhkNGFjYjM4ZTdhXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Mcoca
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA1NzY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTY4NWY2MWQtMGFkMi00MDViLWEwZDgtNGMyZjA3MmYzMWU5XkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed",Karuppu
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA5NDg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzdkNjAxNWMtNWY3My00NTI1LTg2YWQtOGI3MDA0NzdhMjEyXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Dhurandhar The Revenge
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA3MDI
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWJkNDFjMDctOGVhYS00ZGE1LWIzY2YtMzBiNjQwMjVhNmQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Assi
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4MTI
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjVHdGR1pjVzFmWjl3bUdaZUVrQVVucEkxaUlSOUVnZHVKWVVBJnM" group-title="Hindi Movies",Ginny Wedss Sunny 2
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4NTA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzNiZmRlMzctNTRmYi00OTk1LWFhZGMtMTE2NjM3NDNlZGNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Nukkad Naatak
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4MzA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWVjYWQzZTQtNTI2MC00NzlmLTg3MjUtNGZlYzViNjcyODU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Subedaar
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA2NzI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDU1ZTQ3YjctMGZjMi00MjAzLWE1NTQtOWVhNDBjZjQ3YzIxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Everybody Loves Sohrab Handa
 https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA3OTE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI0NmU5MTItY2RjNC00MzRiLThkMzEtNGFhMTAxZDU1MDdiXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Tu Yaa Main
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA2NDE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGViNGU3MWUtNDY0Zi00ZTJiLTg0MDUtZGNkN2ZkNjYwOWJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",Love Insurance Kompany
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4Njg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA2YzhlYTUtMGJmMS00MjlmLWExMjYtOWEzOTBmMTViMWQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",Dacoit
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA3OTQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTBiYWQyMWQtYTQwMC00NmZiLWFkOWYtNmNlNjM4NDlkNjQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",Sathi Leelavathi
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA5MTg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjZjYjhmOTUtNDg2MS00YjcwLTg4NzMtMWY1OTA4NWU0MDVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Toh, Ti ani Fuji
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4MTE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDUzOGQyNTEtZDlhOC00OTRlLThiNzMtMWI5NDliYWVhMTllXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",Kara
 https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA5MTU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjVDVGSnVaSkxHRHpzQlBsRnlNd0RPZ0xlQ3ZhMHZtbFJNVDVnJnM" group-title="Southindian Hindi Dubbed",Madhuvidhu
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA5MDQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZkN2FlMTQtZTI1MC00OGE4LTgxNDktOTdjNTlhYzVkN2MwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",Mohiniyattam
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4Njk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjZiM2VjZTUtZTI5My00MjhmLWJjMGEtMzU1MmRhYTY2NjdlXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed",Peddi
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA5MzE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQ5MzQ5ZDAtOTlkMi00YmIwLWI3MzctZGM5OGQ5OWU2MjJiXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Border 2
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA1NjU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQwM2QwMDEtMDk5MC00NmNlLThjMGMtY2IwZDhmZTU1MzFmXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed",Ugly Story
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA5MzM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWUyZTBjYTctMGQyNS00Mjg0LTg5ZTMtZDA1YmEyZDIxZjRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Happy Patel Khatarnak Jasoos
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA1NjM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc4MTA5NjY5OF5BMl5BanBnXkFtZTgwNDUzMzI2NTE@._V1_.jpg" group-title="Hindi Movies",Badmaash Company
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MTU4MDY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmEwNTU4MzEtY2Y4Ni00ZWRmLThhMGMtMDE5MTZmMDIzMGVjXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Raja Shivaji
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4Njc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk2NjNmYjUtMGEzNS00ZDFiLWE5NmItMDAzZDAyNDYwYTA1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",TN 2026
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA5MTk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjZkNmI4MWUtMDAzNS00OTAzLWJmNDYtMDBkMGQyZWRiMzVjXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Ek Din
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4NTU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVmYmJhOTMtMzlhOS00ZDgwLWE3OGUtMGJmZTI3MjRiZmJhXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",The Raja Saab
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA2MDg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzIwMzcwNzEtYzU4ZS00ZjhjLWFlYTAtMzc4Y2RjMDFjNDNlXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Chand Mera Dil
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA5MTQ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjA4MTQxZjUtMDI2NC00ZWE1LWFiMzAtYTIwYTA5ZTYyMjgzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Hotspot 2 Much
 https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA2Mzc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUWpGcjN5c0JFd21OVklyQUJLeUZPVFVzTFBUWWxsNzl6X3JwaDZ0SHo4VHZ4OXFydHM4WjlTLWZFJnM9MTA" group-title="Hindi Movies",Cocktail 2
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA5Nzc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY5ODUxNDctZGJjNC00OTk0LWIzMzAtMWQ5NTAyMGZhY2NmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Welcome to the Jungle
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA5OTM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDQwM2QwMDEtMDk5MC00NmNlLThjMGMtY2IwZDhmZTU1MzFmXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed",Ugly Story
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA5MzM
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Ikkis_Poster.jpg" group-title="Hindi Movies",Ikkis
 https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA1MDU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM1OWU5N2QtMTQwYy00N2Q5LTg5NjUtYWZhOTgwZjkxOWFlXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Vadh 2
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA3Njk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg2MzhlN2YtYzU5ZC00OTZlLTgwNzctMjJmMzQ1ODQ1NDY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Kartavya
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4ODQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5c/DDSM_Poster.jpg" group-title="Hindi Movies",Do Deewane Seher Mein
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA2NTU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjExOGFmYTYtMzE3NS00ODY2LTg4N2YtN2YxOTE0NzYzZWIwXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Ghumpori
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MTg2MjE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGViNGU3MWUtNDY0Zi00ZTJiLTg0MDUtZGNkN2ZkNjYwOWJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",Love Insurance Kompany
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4Njg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzNiZmRlMzctNTRmYi00OTk1LWFhZGMtMTE2NjM3NDNlZGNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Nukkad Naatak
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4MzA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZkN2FlMTQtZTI1MC00OGE4LTgxNDktOTdjNTlhYzVkN2MwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",Mohiniyattam
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4Njk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTNiNzcxMDQtY2RlOS00MjAxLWIyN2MtNTYyMmIyMDM0ZDJhXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Lucky
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA2Mzk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjc4ZmY1ZGEtZmRmYi00OTQzLTliY2MtMzhkNGFjYjM4ZTdhXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Mcoca
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA1NzY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWZjMzgxMjctZDMzYi00MmMxLThiZmMtZjk3ZDAxZjcwZDE3XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Mardaani 3
 https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA1Nzc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTliMTg2MWMtZmM2NS00MWFmLTg1NjMtYTdmZmM4ZjEyZGZkXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg" group-title="Bangla Movies",Rakkhosh
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4ODg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmY0M2I1NjYtODU4Zi00MmIyLTk0OWUtMDlhN2JmNzFmOWI1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Bonolota Express
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA5MDk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDY5MTJmNDEtMjM5Zi00NmEwLWI5YjgtMzc2MmRhYTYyMDRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Domm
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4ODc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGEyMzAxZTEtNTMzZi00NTU5LTg2OTktNzM2YTYxMzdkODE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",System
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA5MDE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2Y3NjRhYmMtNWVjMy00ZmE1LWJkNGYtNDY3Y2I3NjkzOGE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Bhooth Bangla
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4MTM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg2MzhlN2YtYzU5ZC00OTZlLTgwNzctMjJmMzQ1ODQ1NDY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Kartavya
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4ODQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTFjODQwNWYtMzMyOC00MzhhLWE1OTgtYmZjMzNjYjBhOTllXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Accused
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA2NTQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWE1OTg5ZDMtYjllZC00YzE2LTg1N2UtZmI0OTBmMWE3NzFkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Hai Jawani Toh Ishq Hona Hai
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA5MzU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjZiM2VjZTUtZTI5My00MjhmLWJjMGEtMzU1MmRhYTY2NjdlXkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed",Peddi
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA5MzE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWVmYmJhOTMtMzlhOS00ZDgwLWE3OGUtMGJmZTI3MjRiZmJhXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",The Raja Saab
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA2MDg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjM1OWU5N2QtMTQwYy00N2Q5LTg5NjUtYWZhOTgwZjkxOWFlXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Vadh 2
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA3Njk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjVDVGSnVaSkxHRHpzQlBsRnlNd0RPZ0xlQ3ZhMHZtbFJNVDVnJnM" group-title="Southindian Hindi Dubbed",Madhuvidhu
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA5MDQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Toaster_film_poster.jpg/250px-Toaster_film_poster.jpg" group-title="Hindi Movies",Toaster
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA3OTU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTBiYWQyMWQtYTQwMC00NmZiLWFkOWYtNmNlNjM4NDlkNjQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",Sathi Leelavathi
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA5MTg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmE0ZTA5MTgtNTE4NC00NThmLWFiM2EtZTI2MTc2Y2FmZjkwXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Pati Patni Aur Woh Do
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4ODU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk2NjNmYjUtMGEzNS00ZDFiLWE5NmItMDAzZDAyNDYwYTA1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",TN 2026
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA5MTk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2VlMTM0OTEtYmU1My00ODBhLTk2MzItMDlkMDRiZjcwYWQ1XkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Aakhri Sawal
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4OTk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA2YzhlYTUtMGJmMS00MjlmLWExMjYtOWEzOTBmMTViMWQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Southindian Hindi Dubbed",Dacoit
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA3OTQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5c/DDSM_Poster.jpg" group-title="Hindi Movies",Do Deewane Seher Mein
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA2NTU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI0NmU5MTItY2RjNC00MzRiLThkMzEtNGFhMTAxZDU1MDdiXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Tu Yaa Main
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA2NDE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjVHdGR1pjVzFmWjl3bUdaZUVrQVVucEkxaUlSOUVnZHVKWVVBJnM" group-title="Hindi Movies",Ginny Wedss Sunny 2
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4NTA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzdkNjAxNWMtNWY3My00NTI1LTg2YWQtOGI3MDA0NzdhMjEyXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Dhurandhar The Revenge
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA3MDI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc4MTA5NjY5OF5BMl5BanBnXkFtZTgwNDUzMzI2NTE@._V1_.jpg" group-title="Hindi Movies",Badmaash Company
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MTU4MDY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTY4NWY2MWQtMGFkMi00MDViLWEwZDgtNGMyZjA3MmYzMWU5XkEyXkFqcGc@._V1_.jpg" group-title="Southindian Hindi Dubbed",Karuppu
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA5NDg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODA0ZWI5YTktZmE3Ny00NTUyLWEwZGMtNjEyMWZhZDhmNGRlXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",The Kerala Story 2 Goes Beyond
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA2NzM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGM5M2I0YWEtMjNlOS00ZmIwLThiYjYtODA5ODAzYTc3ZDU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Indian Institute of Zombies
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA5MDA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWJkNDFjMDctOGVhYS00ZGE1LWIzY2YtMzBiNjQwMjVhNmQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Assi
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4MTI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjExOGFmYTYtMzE3NS00ODY2LTg4N2YtN2YxOTE0NzYzZWIwXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Ghumpori
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MTg2MjE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjZkNmI4MWUtMDAzNS00OTAzLWJmNDYtMDBkMGQyZWRiMzVjXkEyXkFqcGc@._V1_.jpg" group-title="Hindi Movies",Ek Din
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4NTU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWUyZTBjYTctMGQyNS00Mjg0LTg5ZTMtZDA1YmEyZDIxZjRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Happy Patel Khatarnak Jasoos
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA1NjM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWVjYWQzZTQtNTI2MC00NzlmLTg3MjUtNGZlYzViNjcyODU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Hindi Movies",Subedaar
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA2NzI
+#EXTINF:-1 tvg-id="TomandJerry2" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="Kids",0. Tom and Jerry 2
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0dnBsYXlvdXQ3L2dpYXR2LTIwODMxNC9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T10jC1zQ/1000086945.jpg" group-title="KALKATA MOVIES & TV", Gopal Bhar
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0dnBsYXlvdXQ3L2dpYXR2LTIwOTYxMS9pbmRleC5tM3U4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQ3ZDM2ZjEtMjFjMy00NDljLWI2ZDktNDFkODYwMzFkOGNhXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Cha Gorom
 https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4MDk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg2MGQyYmYtNWY4My00Yjc2LTgwZmItMzRkYjQ3ZDVmNmIwXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Prince Once Upon a Time in Dhaka
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4ODY
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/WbKqj0w3/1000086946.jpg" group-title="KALKATA MOVIES & TV", Moto Patlu
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0dnBsYXlvdXQ3L2dpYXR2LTIwOTkwMi90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg
 #EXTINF:-1 tvg-id="MotuPatlu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/WowKidz_Logo.png" group-title="Kids",0. WowKidz (Motu Patlu)
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0dnBsYXlvdXQ3L2dpYXR2LTIwOTYyMi9pbmRleC5tM3U4
-#EXTINF:-1 tvg-id="TomandJerry2" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="Kids",0. Tom and Jerry 2
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0dnBsYXlvdXQ3L2dpYXR2LTIwODMxNC9wbGF5bGlzdC5tM3U4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTNiZjM4NzctMWFmOC00MGI4LWJjMDctZjIwNDY5ZjIwNmQ2XkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Djinner Bachcha
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA2NTY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Noor_2025_film.jpg/250px-Noor_2025_film.jpg" group-title="Bangla Movies",Noor
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA0NjE
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T10jC1zQ/1000086945.jpg" group-title="KALKATA MOVIES & TV", Gopal Bhar
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0dnBsYXlvdXQ3L2dpYXR2LTIwOTYxMS9pbmRleC5tM3U4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY1Y2Q3MzMtMzFiZi00OGEwLTg5OGMtZThmZmYyNjlkODEyXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Insaaf: Tale of Legends
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjAwOTg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjVEZrRHJaME82QkN2TUJSSThuRHM4YkRycEwtZ3BuNVhEUHh3JnM" group-title="Bangla Movies",Jackpot
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA3MDg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDZhYjMwMmEtM2NmOS00OWQxLWI5ZTUtYjJiNGJkNjY1MDA5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Neel Chokro
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjAzNTQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUmJIR2luSmdjbGF2bHM2LWRxbjBqSVNsYXgzTUoyQmVOQUZRJnM" group-title="Bangla Movies",Shortcut
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjAzNTU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzczZThkYmItMjk4YS00NDU3LWIwNzItMzkzYWIwODE0ZTQ3XkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Ekshathe Alada
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA3MDQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTliMTg2MWMtZmM2NS00MWFmLTg1NjMtYTdmZmM4ZjEyZGZkXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg" group-title="Bangla Movies",Rakkhosh
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4ODg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmY0M2I1NjYtODU4Zi00MmIyLTk0OWUtMDlhN2JmNzFmOWI1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Bonolota Express
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA5MDk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjg2MGQyYmYtNWY4My00Yjc2LTgwZmItMzRkYjQ3ZDVmNmIwXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Prince Once Upon a Time in Dhaka
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4ODY
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/Jazz_City_2026_poster.jpg" group-title="Bangla Movies",Jazz City
 https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA3MDY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTViZjY5MWItYWVhMy00ODdmLTg3ZjUtNjE2Y2IyODM0YzQ0XkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Tomar Jonno Mon
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjAzNTg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTAwODc4NDYtOGI3MS00Nzc1LTk2MzctZTE3MzM2OThkMTE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Dimlight
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA0NjA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGI2NjI2MzAtNTkwYi00NWRlLWIwN2ItYTYyYTc3YjE0NjdlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Jongli
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MTg2MjQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTVhYmNhNTgtN2UwMi00NjYwLWE5ZDYtNjhiZGZmOGQ2MGQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Surongo
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MTg2NTE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDY5MTJmNDEtMjM5Zi00NmEwLWI5YjgtMzc2MmRhYTYyMDRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Domm
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA4ODc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzczZThkYmItMjk4YS00NDU3LWIwNzItMzkzYWIwODE0ZTQ3XkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Ekshathe Alada
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA3MDQ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTFkN2IwMjctYzBmNC00NDZlLThiYjUtZDdhMDI3NWZhNTZlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Aatka
 https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA1Mjk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjk4NmJkZjgtMDAwNS00N2EwLTllZDktNTkzZDA2MTZkYTRkXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Cactus
 https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA3MDM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmMwZTk1MDctMjM1My00YTA5LTg0YmYtZWE5Y2Q4N2JhZGQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Taandob
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjAwMjE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDc5YjcxYmEtOWYzMy00YjE2LThiMTEtZmYyYzI2NGFjMzk1XkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Antaratma
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA0NTk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzdlMDUyZGItYTBkYS00OWJjLTkyMjYtZGE0ZDVjYmQ1ZWJjXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Toofan
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MTg2NDE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/Chokkor_302_official_logo.jpg" group-title="Bangla Movies",Chokkor 302
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MTg2MjM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGRlNWFmNmItZjFkMy00OGRkLWEyMzUtNDZlMDIxMjRlN2M2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Daagi
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MTg2MTk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDZhYjMwMmEtM2NmOS00OWQxLWI5ZTUtYjJiNGJkNjY1MDA5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Neel Chokro
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjAzNTQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTViZjY5MWItYWVhMy00ODdmLTg3ZjUtNjE2Y2IyODM0YzQ0XkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Tomar Jonno Mon
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjAzNTg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTNiZjM4NzctMWFmOC00MGI4LWJjMDctZjIwNDY5ZjIwNmQ2XkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Djinner Bachcha
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA2NTY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY1Y2Q3MzMtMzFiZi00OGEwLTg5OGMtZThmZmYyNjlkODEyXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Insaaf: Tale of Legends
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjAwOTg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWViYzgzNzQtMTA0YS00NmRhLWFhZDEtNzEzMjM5OTA4NzRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Borbaad
 https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MTg2MTY
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQ5MDI5YTEtYmJkMi00MjczLTg0NzMtN2Y5MGEyZDlmMTdlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Kalkata Bangla Movies",Pariah Volume 1 Every Street Dog Has a Name
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MTg2NDk
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/cbn-tv.png",CBN TV USA
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlLmNibnR2dXNhLm5ldC9obHMvY2JudHYvaW5kZXgubTN1OA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzhhMjAyMmItZTAwNS00ZmI1LThlZmMtYWE0ZmE0N2FiMmExXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Last Defenders of Monogamy
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MTg2Mzk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Hubba_film_poster.jpg" group-title="Bangla Movies",Hubba
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MTg2NDg
-#EXTINF:-1 tvg-logo="https://chsuk.tv/wp-content/uploads/2025/11/CHS-Side-Text.png",Channel S UK
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAubmNhcmUubGl2ZS9jM1Z5ZG1WeVg4UnBiRVU5TWk4eE55OHlNREUwR0lEVTZSZ3pRNk5UQWdkRW9hZUZ6YkY5MllXeElaVE8wVTBlek4xSXpNeWZ2Y0dWTVpFSkNURUZXZVZOM1BUT21kRnNhV1J0YVc1MWFpUGhuUFRJL2Noc3Vrb2ZmLnN0cmVhbS9wbGF5bGlzdC5tM3U4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3ODhkZTgtNTVkMC00NTRmLWIzMjctNzY0YmIxZGFjOTY4XkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Shontaan
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MTg2Mzc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTgzM2IyZGQtOWEyNC00MmQyLTg5ZTAtMzlhZjlhMGJlNzZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Utshob
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjAwMjI
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjMwYTQ5ZTktODVjMC00ZmRmLTgzM2YtMzM5MDljM2IwODU0XkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Grihapravesh
-https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjAyNzE
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/cd/Ekushey_Television_logo_2000-2002%2C_2007.png",Ekushey TV
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzIxMC40LjcyLjIwNC9obHMtbGl2ZS9saXZlcGtnci9fZGVmaW5zdF8vbGl2ZWV2ZW50L2xpdmVzdHJlYW0zLm0zdTg
 #EXTINF:-1 tvg-logo="https://probashinews24.tv/images/logo.png",Probashi TV
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzE1OC42OS4yNC41Mzo4MDgwL3Byb2Jhc2hpX3R2L3RyYWNrcy12MWExL21vbm8ubTN1OA
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4c/Enterr10_Bangla_logo_%282020%29.png",Enterr 10 Bangla
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlLWJhbmdsYS5ha2FtYWl6ZWQubmV0L2xpdmVhYnIvcHViLWlvYmFuZ2xha3Azc2ZmL2xpdmVfNzIwcC9jaHVua3MubTN1OA
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/Jago_News_24.png",Jago News 24
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAubmNhcmUubGl2ZS9saXZlLW9yZ2luL2phZ29uZXdzMjQuc3RyZWFtL3BsYXlsaXN0Lm0zdTg
-#EXTINF:-1 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png",Deshi TV
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9kZXNoaXR2LmRlc2hpdHYyNC5uZXQvbGl2ZS9teVN0cmVhbS9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjVEZrRHJaME82QkN2TUJSSThuRHM4YkRycEwtZ3BuNVhEUHh3JnM" group-title="Bangla Movies",Jackpot
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA3MDg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTgzM2IyZGQtOWEyNC00MmQyLTg5ZTAtMzlhZjlhMGJlNzZhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Utshob
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjAwMjI
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png",Green TV
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAubmNhcmUubGl2ZS9jM1Z5ZG1WeVg4UnBiRVU5TWk4eE55OHlNREUwR0lEVTZSZ3pRNk5UQWdkRW9hZUZ6YkY5MllXeElaVE8wVTBlek4xSXpNeWZ2Y0dWTVpFSkNURUZXZVZOM1BUT21kRnNhV1J0YVc1MWFpUGhuUFRJMi9ncmVlbnR2LnN0cmVhbS9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png",Deshi TV
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9kZXNoaXR2LmRlc2hpdHYyNC5uZXQvbGl2ZS9teVN0cmVhbS9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9lbmNyeXB0ZWQtdGJuMC5nc3RhdGljLmNvbS9pbWFnZXM_cT10Ym46QU5kOUdjUmJIR2luSmdjbGF2bHM2LWRxbjBqSVNsYXgzTUoyQmVOQUZRJnM" group-title="Bangla Movies",Shortcut
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjAzNTU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDc5YjcxYmEtOWYzMy00YjE2LThiMTEtZmYyYzI2NGFjMzk1XkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Antaratma
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA0NTk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGI2NjI2MzAtNTkwYi00NWRlLWIwN2ItYTYyYTc3YjE0NjdlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Jongli
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MTg2MjQ
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/refs/heads/tv/NRB.png",NRB TV
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAubmNhcmUubGl2ZS9saXZlLW9yZ2luL25yYi1ldS5zdHJlYW0vcGxheWxpc3QubTN1OA
-#EXTINF:-1 tvg-logo="https://channeleurope.tv/storage/settings/BNyRMyomifMQ7VlzvHKbNwCfzxM7kF4Vq7bj4zxZ.png",Channel Europe
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9zdHJlYW0uY2hhbm5lbGV1cm9wZXR2Ym94bG9uZG9uLmNvLnVrL2xpdmUvY2hhbm5lbGV1cm9wZS9jaHVua2xpc3RfdzU3MjI4NDY1NC5tM3U4
-#EXTINF:-1 tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png",Movie Bangla
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL2FsdmV0di5jb20vbW92aWViYW5nbGF0di84MDgwL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/jhonmobhumitv.png",JonmoBhumi TV
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9qdHZzLm5jYXJlLmxpdmUvR3pucjg0V29qN1VFeWUzT1BWZVdxMkZvcmJvV0FnZFYvam9ubW9iaHVtaXR2LnN0cmVhbS90cmFja3MtdjFhMS9tb25vLm0zdTg
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla HD
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly95dXBwdHZjYXRjaHVwaXJlLnl1cHBjZG4ubmV0L3ByZXZpZXcvemVlYmFuZ2xhLzI1MDAubTN1OA
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly95dXBwdHZjYXRjaHVwaXJlLnl1cHBjZG4ubmV0L3ByZXZpZXcvY29sb3JzYmFuZ2xhaGQvODAwLm0zdTg
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/7/76/Desh_TV_logo_2022.png",Desh TV
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAyNC5qYWdvYmQuY29tLmJkL2MzVnlkbVZ5WDhScGJFVTlNaTh4Tnk4eU1GREVFSEdjZlJnelE2TlRBZ2RFb2FlRnpiRjkyWVd4SVpUTzBVMGV6TjFJek15ZnZjRWRzRWZlRGVLaU5rVk4zUFRPbWRGc2VXUnRhVzUxYWlQaG5QVEkyL2Rlc2h0di5zdHJlYW0vdHJhY2tzLXYxYTEvbW9uby5tM3U4
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png" group-title="Indian-Bangla",Star Jalsha HD
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL3Jna2t3LmxpdmU6ODAvbGl2ZS8xQW9lbjdlbHA1L0lnTUo2MHRtQWEvMTk4LnRz
+#EXTINF:-1 tvg-logo="https://chsuk.tv/wp-content/uploads/2025/11/CHS-Side-Text.png",Channel S UK
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAubmNhcmUubGl2ZS9jM1Z5ZG1WeVg4UnBiRVU5TWk4eE55OHlNREUwR0lEVTZSZ3pRNk5UQWdkRW9hZUZ6YkY5MllXeElaVE8wVTBlek4xSXpNeWZ2Y0dWTVpFSkNURUZXZVZOM1BUT21kRnNhV1J0YVc1MWFpUGhuUFRJL2Noc3Vrb2ZmLnN0cmVhbS9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/Jago_News_24.png",Jago News 24
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAubmNhcmUubGl2ZS9saXZlLW9yZ2luL2phZ29uZXdzMjQuc3RyZWFtL3BsYXlsaXN0Lm0zdTg
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/dd/Ekhon_TV_logo.png",Ekhon TV
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAyNC5qYWdvYmQuY29tLmJkL2MzVnlkbVZ5WDhScGJFVTlNaTh4Tnk4eU1GREVFSEdjZlJnelE2TlRBZ2RFb2FlRnpiRjkyWVd4SVpUTzBVMGV6TjFJek15ZnZjRWRzRWZlRGVLaU5rVk4zUFRPbWRGc2VXUnRhVzUxYWlQaG5QVEkyL2dsb2JhbHR2LnN0cmVhbS90cmFja3MtdjFhMS9tb25vLm0zdTg
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1JMhnC3G/MOHONA-TV-HD.png",Mohona TV HD
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAyNC5qYWdvYmQuY29tLmJkL2MzVnlkbVZ5WDhScGJFVTlNaTh4Tnk4eU1GREVFSEdjZlJnelE2TlRBZ2RFb2FlRnpiRjkyWVd4SVpUTzBVMGV6TjFJek15ZnZjRWRzRWZlRGVLaU5rVk4zUFRPbWRGc2VXUnRhVzUxYWlQaG5QVEkyL21vaG9uYXR2LnN0cmVhbS90cmFja3MtdjFhMS9tb25vLm0zdTg
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png",T Sports HD
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL3Jna2t3LmxpdmU6ODAvbGl2ZS8xQW9lbjdlbHA1L0lnTUo2MHRtQWEvMTMwNzE0LnRz
-#EXTINF:-1 tvg-name="FOOTBALL | SKY SPORTS PREMIER ⁴ᵏ" tvg-id="skysportspremiereleague.uk" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="FOOTBALL ⚽",FOOTBALL | SKY SPORTS PREMIER ⁴ᵏ
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL2toYW5tYWxpay5pbzo4MDgwL2xpdmUvS2hlbXByYWthc2gvc2t5cGxheTI0MjEvMTI1NjQyLnRz
-#EXTINF:-1 tvg-name="FOOTBALL | SKY SPORTS PREMIER 'ᴴᴰ" tvg-id="skysportspremiereleague.uk" tvg-logo="https://i.ibb.co/hJz9zYr5/Sky-Sports-Premier.png" group-title="FOOTBALL ⚽",FOOTBALL | SKY SPORTS PREMIER 'ᴴᴰ
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL2toYW5tYWxpay5pbzo4MDgwL2xpdmUvS2hlbXByYWthc2gvc2t5cGxheTI0MjEvMTAwNDg5LnRz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Hubba_film_poster.jpg" group-title="Bangla Movies",Hubba
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MTg2NDg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/Chokkor_302_official_logo.jpg" group-title="Bangla Movies",Chokkor 302
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MTg2MjM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjQ5MDI5YTEtYmJkMi00MjczLTg0NzMtN2Y5MGEyZDlmMTdlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Kalkata Bangla Movies",Pariah Volume 1 Every Street Dog Has a Name
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MTg2NDk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTVhYmNhNTgtN2UwMi00NjYwLWE5ZDYtNjhiZGZmOGQ2MGQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Surongo
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MTg2NTE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzdlMDUyZGItYTBkYS00OWJjLTkyMjYtZGE0ZDVjYmQ1ZWJjXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Toofan
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MTg2NDE
+#EXTINF:-1 tvg-logo="https://channeleurope.tv/storage/settings/BNyRMyomifMQ7VlzvHKbNwCfzxM7kF4Vq7bj4zxZ.png",Channel Europe
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9zdHJlYW0uY2hhbm5lbGV1cm9wZXR2Ym94bG9uZG9uLmNvLnVrL2xpdmUvY2hhbm5lbGV1cm9wZS9jaHVua2xpc3RfdzU3MjI4NDY1NC5tM3U4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzhhMjAyMmItZTAwNS00ZmI1LThlZmMtYWE0ZmE0N2FiMmExXkEyXkFqcGc@._V1_.jpg" group-title="Bangla Movies",Last Defenders of Monogamy
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MTg2Mzk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmMwZTk1MDctMjM1My00YTA5LTg0YmYtZWE5Y2Q4N2JhZGQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Taandob
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjAwMjE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjMwYTQ5ZTktODVjMC00ZmRmLTgzM2YtMzM5MDljM2IwODU0XkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Grihapravesh
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjAyNzE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Noor_2025_film.jpg/250px-Noor_2025_film.jpg" group-title="Bangla Movies",Noor
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA0NjE
 #EXTINF:-1 tvg-id="141000" tvg-name="SRK TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="Entertainment",SRK TV
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9zcmtub3dhcHAubmNhcmUubGl2ZS9zcmt0dmhsc3dvZHJtL3Nya3R2LnN0cmVhbS9wbGF5bGlzdC5tM3U4
-#EXTINF:-1 tvg-name="FOOTBALL | SKY SPORTS ᴴᴰ" tvg-id="skysportsfootball.uk" tvg-logo="https://i.ibb.co/HTJV8tQS/Sky-Sports.png" group-title="FOOTBALL ⚽",FOOTBALL | SKY SPORTS ᴴᴰ
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL2toYW5tYWxpay5pbzo4MDgwL2xpdmUvS2hlbXByYWthc2gvc2t5cGxheTI0MjEvMTAwNDgxLnRz
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9a/Bangla%2B_HD.png",Bangla Plus
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlLXN0cmVhbS51dGthbGJvbmdvLmNvbS9obHMvbGl2ZWJhbmdsYXR2c3RyZWFtLm0zdTg
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian-Bangla",Colors Bangla
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly95dXBwdHZjYXRjaHVwaXJlLnl1cHBjZG4ubmV0L3ByZXZpZXcvY29sb3JzYmFuZ2xhaGQvODAwLm0zdTg
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4c/Enterr10_Bangla_logo_%282020%29.png",Enterr 10 Bangla
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlLWJhbmdsYS5ha2FtYWl6ZWQubmV0L2xpdmVhYnIvcHViLWlvYmFuZ2xha3Azc2ZmL2xpdmVfNzIwcC9jaHVua3MubTN1OA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png",T Sports HD
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL3Jna2t3LmxpdmU6ODAvbGl2ZS8xQW9lbjdlbHA1L0lnTUo2MHRtQWEvMTMwNzE0LnRz
 #EXTINF:-1 tvg-name="FOOTBALL | SKY SPORTS ⁴ᵏ" tvg-id="skysportsfootball.uk" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="FOOTBALL ⚽",FOOTBALL | SKY SPORTS ⁴ᵏ
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL2toYW5tYWxpay5pbzo4MDgwL2xpdmUvS2hlbXByYWthc2gvc2t5cGxheTI0MjEvMTAwNDgyLnRz
-#EXTINF:-1 tvg-name="FOOTBALL | TNT PREMIUM ᴴᴰ" tvg-id="TNTSportsUltimate.uk" tvg-logo="https://i.ibb.co/8nmhSD21/TNT-Premium.png" group-title="FOOTBALL ⚽",FOOTBALL | TNT PREMIUM ᴴᴰ
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL2toYW5tYWxpay5pbzo4MDgwL2xpdmUvS2hlbXByYWthc2gvc2t5cGxheTI0MjEvMjkyMjM0LnRz
-#EXTINF:-1 tvg-name="FOOTBALL | TNT SPORTS ᴴᴰ" tvg-id="tnt.us" tvg-logo="https://i.ibb.co/XkK5vQ98/TNT-Sports.png" group-title="FOOTBALL ⚽",FOOTBALL | TNT SPORTS ᴴᴰ
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL2toYW5tYWxpay5pbzo4MDgwL2xpdmUvS2hlbXByYWthc2gvc2t5cGxheTI0MjEvMjMwMzkyLnRz
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/refs/heads/tv/deepto-tv-seeklogo.png",Deepto TV
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9ieXBoZGdsbHlrLmdwY2RuLm5ldC9obHMvZGVlcHRvdHYvaW5kZXgubTN1OA
 #EXTINF:-1 tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/news18-bangla-news.png" group-title="Indian-Bangla",News18 Bangla
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hbWcwMTQ0OC1zYW1zdW5naW4tbmV3czE4YmFuZ2xhLXNhbXN1bmdpbi1hZC1xeS5hbWFnaS50di9wbGF5bGlzdC9hbWcwMTQ0OC1zYW1zdW5naW4tbmV3czE4YmFuZ2xhLXNhbXN1bmdpbi9wbGF5bGlzdC5tM3U4
-#EXTINF:-1 tvg-name="FOOTBALL | BEIN SPORTS 1 ENGLISH ⁴ᵏ" tvg-id="beinsports1en.qa" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="FOOTBALL ⚽",FOOTBALL | BEIN SPORTS 1 ENGLISH ⁴ᵏ
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL2toYW5tYWxpay5pbzo4MDgwL2xpdmUvS2hlbXByYWthc2gvc2t5cGxheTI0MjEvMjQ5ODk0LnRz
+#EXTINF:-1 tvg-name="FOOTBALL | SKY SPORTS PREMIER 'ᴴᴰ" tvg-id="skysportspremiereleague.uk" tvg-logo="https://i.ibb.co/hJz9zYr5/Sky-Sports-Premier.png" group-title="FOOTBALL ⚽",FOOTBALL | SKY SPORTS PREMIER 'ᴴᴰ
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL2toYW5tYWxpay5pbzo4MDgwL2xpdmUvS2hlbXByYWthc2gvc2t5cGxheTI0MjEvMTAwNDg5LnRz
+#EXTINF:-1 tvg-name="FOOTBALL | SKY SPORTS ᴴᴰ" tvg-id="skysportsfootball.uk" tvg-logo="https://i.ibb.co/HTJV8tQS/Sky-Sports.png" group-title="FOOTBALL ⚽",FOOTBALL | SKY SPORTS ᴴᴰ
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL2toYW5tYWxpay5pbzo4MDgwL2xpdmUvS2hlbXByYWthc2gvc2t5cGxheTI0MjEvMTAwNDgxLnRz
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png" group-title="Indian-Bangla",Star Jalsha HD
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL3Jna2t3LmxpdmU6ODAvbGl2ZS8xQW9lbjdlbHA1L0lnTUo2MHRtQWEvMTk4LnRz
 #EXTINF:-1 tvg-name="FOOTBALL | BEIN SPORTS 1 ENGLISH ᴴᴰ" tvg-id="beinsports1en.qa" tvg-logo="https://i.ibb.co/RpV3GLys/Bein-Sports-1-English.png" group-title="FOOTBALL ⚽",FOOTBALL | BEIN SPORTS 1 ENGLISH ᴴᴰ
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL2toYW5tYWxpay5pbzo4MDgwL2xpdmUvS2hlbXByYWthc2gvc2t5cGxheTI0MjEvMTAwNDkyLnRz
-#EXTINF:-1 tvg-logo="https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly95dDMuZ2dwaHQuY29tL3l0Yy9BTUxuWnVfR3h5OHl3ak1ZNl9ZUFgtMXVZdFVHQTU2Rk9mRG9Cc0g2Mi1la05BPXM5MDAtYy1rLWMweDAwZmZmZmZmLW5vLXJq" group-title="Islamic",Saudi Quran
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9jZG4tZ2xvYmVjYXN0LmFrYW1haXplZC5uZXQvbGl2ZS9lZHMvc2F1ZGlfcXVyYW4vaGxzX3Jva3UvaW5kZXgubTN1OA
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ouAva7k.png" group-title="Sports",beIN sports Xtra HD
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9iZWluLWVzcC14dW1vLmFtYWdpLnR2L3BsYXlsaXN0UjEwODBwLm0zdTg
-#EXTINF:-1 tvg-id="euro sports" tvg-name="euro sports" tvg-logo="https://i.imgur.com/nYJ0UYA.png" group-title="Sports",Euro Sports
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9zdHJlYW0ub3R0cGx1cy5iZC9saXZlL2V1cm9fc3BvcnRzX2hkX2Fici9saXZlL2V1cm9fc3BvcnRzX2hkL2NodW5rcy5tM3U4
+#EXTINF:-1 tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png",Movie Bangla
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL2FsdmV0di5jb20vbW92aWViYW5nbGF0di84MDgwL2luZGV4Lm0zdTg
+#EXTINF:-1 tvg-name="FOOTBALL | SKY SPORTS PREMIER ⁴ᵏ" tvg-id="skysportspremiereleague.uk" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="FOOTBALL ⚽",FOOTBALL | SKY SPORTS PREMIER ⁴ᵏ
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL2toYW5tYWxpay5pbzo4MDgwL2xpdmUvS2hlbXByYWthc2gvc2t5cGxheTI0MjEvMTI1NjQyLnRz
+#EXTINF:-1 tvg-name="FOOTBALL | TNT SPORTS ᴴᴰ" tvg-id="tnt.us" tvg-logo="https://i.ibb.co/XkK5vQ98/TNT-Sports.png" group-title="FOOTBALL ⚽",FOOTBALL | TNT SPORTS ᴴᴰ
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL2toYW5tYWxpay5pbzo4MDgwL2xpdmUvS2hlbXByYWthc2gvc2t5cGxheTI0MjEvMjMwMzkyLnRz
+#EXTINF:-1 tvg-name="FOOTBALL | TNT PREMIUM ᴴᴰ" tvg-id="TNTSportsUltimate.uk" tvg-logo="https://i.ibb.co/8nmhSD21/TNT-Premium.png" group-title="FOOTBALL ⚽",FOOTBALL | TNT PREMIUM ᴴᴰ
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL2toYW5tYWxpay5pbzo4MDgwL2xpdmUvS2hlbXByYWthc2gvc2t5cGxheTI0MjEvMjkyMjM0LnRz
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",Zee Bangla HD
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly95dXBwdHZjYXRjaHVwaXJlLnl1cHBjZG4ubmV0L3ByZXZpZXcvemVlYmFuZ2xhLzI1MDAubTN1OA
+#EXTINF:-1 tvg-name="FOOTBALL | BEIN SPORTS 1 ENGLISH ⁴ᵏ" tvg-id="beinsports1en.qa" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="FOOTBALL ⚽",FOOTBALL | BEIN SPORTS 1 ENGLISH ⁴ᵏ
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL2toYW5tYWxpay5pbzo4MDgwL2xpdmUvS2hlbXByYWthc2gvc2t5cGxheTI0MjEvMjQ5ODk0LnRz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk3ODhkZTgtNTVkMC00NTRmLWIzMjctNzY0YmIxZGFjOTY4XkEyXkFqcGc@._V1_.jpg" group-title="Kalkata Bangla Movies",Shontaan
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MTg2Mzc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGRlNWFmNmItZjFkMy00OGRkLWEyMzUtNDZlMDIxMjRlN2M2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Daagi
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MTg2MTk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ouAva7k.png" group-title="Sports",beIN sports Xtra
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9iZWluLWVzcC14dW1vLmFtYWdpLnR2L3BsYXlsaXN0UjcyMFAubTN1OA
-#EXTINF:-1 tvg-id="cricketgold" tvg-name="Cricket Gold" tvg-logo="https://i.imgur.com/UvbHjlx.png" group-title="Sports",Cricket Gold
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9zdHJlYW1zMi5zb2Zhc3QudHYvcHRuci15dXBwdHYvdGl0bGUtY3JpY2tldGdvbGQvdjEvbWFuaWZlc3QvNjExZDc5YjExYjc3ZTJmNTcxOTM0ZmQ4MGNhMTQxMzQ1Mzc3MmFjNy9iMjA0OGJiOC0xNjg2LTQ0MzItYWE1MC02NDcyNDUzODNlMGMvYmZjNmEzNmUtYzI1MC00YWZlLWI2YzktMmJjNTc4NTViYjdkLzQubTN1OA
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BANGLA",Deepto TV
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9ieXBoZGdsbHlrLmdwY2RuLm5ldC9obHMvZGVlcHRvdHYvMF8xL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-logo="https://iili.io/F8gQjJS.png" group-title="BANGLADESHI", ZB Cartun TV
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9zZXJ2ZXIuemlsbGFyYmFydGEuY29tL3piY2F0dW4vdmlkZW8ubTN1OA
-#EXTINF:-1 tvg-id="enter10bangla.in" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Bangla",Enter10 Bangla HD
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlLWJhbmdsYS5ha2FtYWl6ZWQubmV0L2xpdmVhYnIvcHViLWlvYmFuZ2xha3Azc2ZmL2xpdmVfMjQwcC9jaHVua3MubTN1OA
-#EXTINF:-1 tvg-id="starjalsha.in" tvg-logo="http://openboxv8s.com/india/star_jalsha.png" group-title="Bangla",STAR JALSHA HD (Ads Only)
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly95dXBwdHZjYXRjaHVwaXJlLnl1cHBjZG4ubmV0L3ByZXZpZXcvc3RhcmphbHNoYS8xODAwLm0zdTg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ouAva7k.png" group-title="Sports",beIN sports Xtra HD
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9iZWluLWVzcC14dW1vLmFtYWdpLnR2L3BsYXlsaXN0UjEwODBwLm0zdTg
 #EXTINF:-1 tvg-id="GOALTV" tvg-name="GOAL TV" tvg-logo="https://i.imgur.com/zsj6tLX.jpeg" group-title="Sports",GOAL TV
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9zdHJlYW1zMi5zb2Zhc3QudHYvc29mYXN0cGxheW91dC9XaXNlTTNVOF8xL21hc3Rlci5tM3U4
-#EXTINF:-1 tvg-id="DANGAL2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png" group-title="India",ENT | DANGAL2
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlLWRhbmdhbDIuYWthbWFpemVkLm5ldC9saXZlYWJyL3BsYXlsaXN0Lm0zdTg
-#EXTINF:-1 tvg-id="TV9Bangla.in" tvg-logo="https://images.tv9bangla.com/wp-content/themes/tv9bangla/images/tv9-bangla-logo.svg" group-title="Bangla News",IN | TV9 Bangla
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9keWpteWl2M2JwMmV6LmNsb3VkZnJvbnQubmV0L3B1Yi1pb3R2OWJhbmFlbjh5cS9saXZlYWJyL3BsYXlsaXN0Lm0zdTg
-#EXTINF:-1 tvg-id="dd-urdu" tvg-logo="https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9wcm9kY2RuMS53YXZlc3BiLmNvbS9zaG93cy9wb3N0ZXJfdXJsLzE0MjMzNTQxMzdERF9VUkRVX19fX19fNzIweDk2MC53ZWJw" group-title="India",ENT | DD URDU
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9kM3FzM2QycmtoZnFydC5jbG91ZGZyb250Lm5ldC9vdXQvdjEvOWI5MWU5MDA3ZTc1NGRiMzlhOGIzMmM2YmZjNWIyNGEvaW5kZXgubTN1OA
-#EXTINF:-1 tvg-id="DDNational.in@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Ddnational2023.png" group-title="India",ENT | DD National HD
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9kM3FzM2QycmtoZnFydC5jbG91ZGZyb250Lm5ldC9vdXQvdjEvNDA0OTJhNjRjMWRiNGExMzg1YmExYTM5N2QzNTdkM2EvaW5kZXgubTN1OA
+#EXTINF:-1 tvg-id="cricketgold" tvg-name="Cricket Gold" tvg-logo="https://i.imgur.com/UvbHjlx.png" group-title="Sports",Cricket Gold
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9zdHJlYW1zMi5zb2Zhc3QudHYvcHRuci15dXBwdHYvdGl0bGUtY3JpY2tldGdvbGQvdjEvbWFuaWZlc3QvNjExZDc5YjExYjc3ZTJmNTcxOTM0ZmQ4MGNhMTQxMzQ1Mzc3MmFjNy9iMjA0OGJiOC0xNjg2LTQ0MzItYWE1MC02NDcyNDUzODNlMGMvYmZjNmEzNmUtYzI1MC00YWZlLWI2YzktMmJjNTc4NTViYjdkLzQubTN1OA
+#EXTINF:-1 tvg-logo="https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly95dDMuZ2dwaHQuY29tL3l0Yy9BTUxuWnVfR3h5OHl3ak1ZNl9ZUFgtMXVZdFVHQTU2Rk9mRG9Cc0g2Mi1la05BPXM5MDAtYy1rLWMweDAwZmZmZmZmLW5vLXJq" group-title="Islamic",Saudi Quran
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9jZG4tZ2xvYmVjYXN0LmFrYW1haXplZC5uZXQvbGl2ZS9lZHMvc2F1ZGlfcXVyYW4vaGxzX3Jva3UvaW5kZXgubTN1OA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/refs/heads/tv/deepto-tv-seeklogo.png",Deepto TV
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9ieXBoZGdsbHlrLmdwY2RuLm5ldC9obHMvZGVlcHRvdHYvaW5kZXgubTN1OA
+#EXTINF:-1 tvg-id="starjalsha.in" tvg-logo="http://openboxv8s.com/india/star_jalsha.png" group-title="Bangla",STAR JALSHA HD (Ads Only)
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly95dXBwdHZjYXRjaHVwaXJlLnl1cHBjZG4ubmV0L3ByZXZpZXcvc3RhcmphbHNoYS8xODAwLm0zdTg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTAwODc4NDYtOGI3MS00Nzc1LTk2MzctZTE3MzM2OThkMTE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Bangla Movies",Dimlight
+https://go.skym3u.top/uiyd.m3u?channel=aHR0cHM6Ly9mbWZ0cC5uZXQvYXBpL3N0cmVhbS92aWRlby9zdHJlYW0_dHlwZT1tb3ZpZXMmaWQ9MjA0NjA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9a/Bangla%2B_HD.png",Bangla Plus
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlLXN0cmVhbS51dGthbGJvbmdvLmNvbS9obHMvbGl2ZWJhbmdsYXR2c3RyZWFtLm0zdTg
+#EXTINF:-1 tvg-id="euro sports" tvg-name="euro sports" tvg-logo="https://i.imgur.com/nYJ0UYA.png" group-title="Sports",Euro Sports
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9zdHJlYW0ub3R0cGx1cy5iZC9saXZlL2V1cm9fc3BvcnRzX2hkX2Fici9saXZlL2V1cm9fc3BvcnRzX2hkL2NodW5rcy5tM3U4
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Aaj_Tak_HD_v2.png" group-title="India",NEWS | Aaj Tak HD
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hYWp0YWtsaXZlLWFtZC5ha2FtYWl6ZWQubmV0L2hscy9saXZlLzIwMTQ0MTYvYWFqdGFrL2FhanRha2xpdmUvbGl2ZV83MjBwL2NodW5rcy5tM3U4
-#EXTINF:-1 tvg-id="NewsNation.in@SD" tvg-logo="https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3RXZ0ttTUlUNFl3ZG1UMHo1UzFNTjJiSXZvRk44X1J2SXNBV1piTHdRVklwcTIxUk8tX1k0c0R6VmRwajlsNndXUlJ6OFllVVNnPXM3Mi1jLWstYzB4MDBmZmZmZmYtbm8tcmo" group-title="India",NEWS | News Nation
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9kM3FzM2QycmtoZnFydC5jbG91ZGZyb250Lm5ldC9vdXQvdjEvNmNkMmY2NDk3MzlhNDVjYTlkZTFkYWY4MWNjN2QwZjIvaW5kZXgubTN1OA
-#EXTINF:-1 tvg-id="DangalTV.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png" group-title="India",ENT | Dangal TV
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlLWRhbmdhbC5ha2FtYWl6ZWQubmV0L2xpdmVhYnIvcHViLWlvZGFuZzEwcDRhbC9saXZlXzcyMHAvY2h1bmtzLm0zdTg
-#EXTINF:-1 tvg-id="RPlusGould" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/RPlus_Gold_logo_%282013%29.png" group-title="Bangla",R Plus Gold
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly90aGVsZWdpdHByby5pbi9wbnR2L3JwbHVzbmV3czI0eDcvdHJhY2tzLXYxYTEvbW9uby5tM3U4
+#EXTINF:-1 tvg-id="enter10bangla.in" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Bangla",Enter10 Bangla HD
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlLWJhbmdsYS5ha2FtYWl6ZWQubmV0L2xpdmVhYnIvcHViLWlvYmFuZ2xha3Azc2ZmL2xpdmVfMjQwcC9jaHVua3MubTN1OA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BANGLA",Deepto TV
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9ieXBoZGdsbHlrLmdwY2RuLm5ldC9obHMvZGVlcHRvdHYvMF8xL2luZGV4Lm0zdTg
 #EXTINF:-1 tvg-id="IndiaTV.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/India_TV_Orange.jpg" group-title="India",NEWS | India TV
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9wbC1pbmRpYXR2bmV3cy5ha2FtYWl6ZWQubmV0L291dC92MS9kYjc5MTc5YjYwODY0MWNlYWE1YTRkMGRkMGRjYThkYS9pbmRleC5tM3U4
-#EXTINF:-1 tvg-id="ndtvenglish" tvg-logo="https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3l0Yy9BSWRyb19sY2o4aWRITnNhVGlUSVRZMnZXUUQ2Z2F4WjZJVGtwUVBhTFZza2FETXlpbWw5PXMxNjAtYy1rLWMweDAwZmZmZmZmLW5vLXJq" group-title="India",NEWS | NDTV English
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9uZHR2MjR4N2VsZW1hcmNoYW5hLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjAwMzY3OC1iL25kdHYyNHg3L21hc3Rlci5tM3U4
-#EXTINF:-1 tvg-id="News24" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900001YE_20250430T011913SQUARE.png" group-title="India",NEWS | News24
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hbWcxMzY0My1hbWcxMzY0M2MxLWFtZ3BsdDAwMTYucGxheW91dC5ub3czLmFtYWdpLnR2L3RzLWV1LXcxLW4yL3BsYXlsaXN0L2FtZzEzNjQzLWFtZzEzNjQzYzEtYW1ncGx0MDAxNi9wbGF5bGlzdC5tM3U4
-#EXTINF:-1 tvg-id="RepublicTV.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Republic-logo2.svg" group-title="India",NEWS | Republic TV
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9kM3FzM2QycmtoZnFydC5jbG91ZGZyb250Lm5ldC9vdXQvdjEvMmUzMWQ4MzFmMDg2NDBmZjkyZjY1MDAzYmRjODk5OTEvaW5kZXgubTN1OA
-#EXTINF:-1 tvg-id="R Plus News" tvg-logo="https://rplus.in/wp-content/uploads/2025/06/RPLUS_NEWS.png" group-title="Bangla News",IN | R Plus News
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly90aGVsZWdpdHByby5pbi9wbnR2L3JwbHVzbmV3czI0eDcvaW5kZXgubTN1OA
-#EXTINF:-1 tvg-id="RepublicBangla.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/R.Bangla_logo_with_tagline.jpg" group-title="Bangla News",IN | Republic Bangla
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly92Zy1yZXB1YmxpY3R2eXVwcC5ha2FtYWl6ZWQubmV0L3B0bnIteXVwcHQvdjEvbWFuaWZlc3QvNjExZDc5YjExYjc3ZTJmNTcxOTM0ZmQ4MGNhMTQxMzQ1Mzc3MmFjNy92Z2xpdmUtc2stNjEzNjA1LzkzZDY3NGFiLWY3YTAtNDA0ZS04OGIyLWI0ZjE2MzM3M2RiZS8wLm0zdTg
+#EXTINF:-1 tvg-logo="https://iili.io/F8gQjJS.png" group-title="BANGLADESHI", ZB Cartun TV
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9zZXJ2ZXIuemlsbGFyYmFydGEuY29tL3piY2F0dW4vdmlkZW8ubTN1OA
 #EXTINF:-1 tvg-id="DDBharati.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/DD_Bharati_english.png" group-title="India",ENT | DD Bharati
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9kMmxrNXU1OXRuczc0Yy5jbG91ZGZyb250Lm5ldC9vdXQvdjEvNjdjZWM3OTRkOGIxNGY5YmEyMWY3MzkyNGFjNjU3OTcvaW5kZXgubTN1OA
-#EXTINF:-1 tvg-id="CalcuttaNews" tvg-logo="https://assets.calcuttatelevisionnetwork.in/cn.png" group-title="Bangla News",IN | Calcutta News
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9ha2RuZXR3b3JrLmNvLmluL2xpdmUvY25uZXcvaW5kZXgubTN1OA
+#EXTINF:-1 tvg-id="DANGAL2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png" group-title="India",ENT | DANGAL2
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlLWRhbmdhbDIuYWthbWFpemVkLm5ldC9saXZlYWJyL3BsYXlsaXN0Lm0zdTg
+#EXTINF:-1 tvg-id="DangalTV.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png" group-title="India",ENT | Dangal TV
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlLWRhbmdhbC5ha2FtYWl6ZWQubmV0L2xpdmVhYnIvcHViLWlvZGFuZzEwcDRhbC9saXZlXzcyMHAvY2h1bmtzLm0zdTg
+#EXTINF:-1 tvg-id="dd-urdu" tvg-logo="https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9wcm9kY2RuMS53YXZlc3BiLmNvbS9zaG93cy9wb3N0ZXJfdXJsLzE0MjMzNTQxMzdERF9VUkRVX19fX19fNzIweDk2MC53ZWJw" group-title="India",ENT | DD URDU
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9kM3FzM2QycmtoZnFydC5jbG91ZGZyb250Lm5ldC9vdXQvdjEvOWI5MWU5MDA3ZTc1NGRiMzlhOGIzMmM2YmZjNWIyNGEvaW5kZXgubTN1OA
+#EXTINF:-1 tvg-id="News24" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3900001YE_20250430T011913SQUARE.png" group-title="India",NEWS | News24
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hbWcxMzY0My1hbWcxMzY0M2MxLWFtZ3BsdDAwMTYucGxheW91dC5ub3czLmFtYWdpLnR2L3RzLWV1LXcxLW4yL3BsYXlsaXN0L2FtZzEzNjQzLWFtZzEzNjQzYzEtYW1ncGx0MDAxNi9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-id="DDNational.in@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Ddnational2023.png" group-title="India",ENT | DD National HD
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9kM3FzM2QycmtoZnFydC5jbG91ZGZyb250Lm5ldC9vdXQvdjEvNDA0OTJhNjRjMWRiNGExMzg1YmExYTM5N2QzNTdkM2EvaW5kZXgubTN1OA
+#EXTINF:-1 tvg-id="TV9Bangla.in" tvg-logo="https://images.tv9bangla.com/wp-content/themes/tv9bangla/images/tv9-bangla-logo.svg" group-title="Bangla News",IN | TV9 Bangla
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9keWpteWl2M2JwMmV6LmNsb3VkZnJvbnQubmV0L3B1Yi1pb3R2OWJhbmFlbjh5cS9saXZlYWJyL3BsYXlsaXN0Lm0zdTg
+#EXTINF:-1 tvg-id="NewsNation.in@SD" tvg-logo="https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3RXZ0ttTUlUNFl3ZG1UMHo1UzFNTjJiSXZvRk44X1J2SXNBV1piTHdRVklwcTIxUk8tX1k0c0R6VmRwajlsNndXUlJ6OFllVVNnPXM3Mi1jLWstYzB4MDBmZmZmZmYtbm8tcmo" group-title="India",NEWS | News Nation
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9kM3FzM2QycmtoZnFydC5jbG91ZGZyb250Lm5ldC9vdXQvdjEvNmNkMmY2NDk3MzlhNDVjYTlkZTFkYWY4MWNjN2QwZjIvaW5kZXgubTN1OA
+#EXTINF:-1 tvg-id="RepublicTV.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Republic-logo2.svg" group-title="India",NEWS | Republic TV
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9kM3FzM2QycmtoZnFydC5jbG91ZGZyb250Lm5ldC9vdXQvdjEvMmUzMWQ4MzFmMDg2NDBmZjkyZjY1MDAzYmRjODk5OTEvaW5kZXgubTN1OA
+#EXTINF:-1 tvg-id="ndtvenglish" tvg-logo="https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3l0Yy9BSWRyb19sY2o4aWRITnNhVGlUSVRZMnZXUUQ2Z2F4WjZJVGtwUVBhTFZza2FETXlpbWw5PXMxNjAtYy1rLWMweDAwZmZmZmZmLW5vLXJq" group-title="India",NEWS | NDTV English
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9uZHR2MjR4N2VsZW1hcmNoYW5hLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjAwMzY3OC1iL25kdHYyNHg3L21hc3Rlci5tM3U4
+#EXTINF:-1 tvg-id="RepublicBangla.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/R.Bangla_logo_with_tagline.jpg" group-title="Bangla News",IN | Republic Bangla
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly92Zy1yZXB1YmxpY3R2eXVwcC5ha2FtYWl6ZWQubmV0L3B0bnIteXVwcHQvdjEvbWFuaWZlc3QvNjExZDc5YjExYjc3ZTJmNTcxOTM0ZmQ4MGNhMTQxMzQ1Mzc3MmFjNy92Z2xpdmUtc2stNjEzNjA1LzkzZDY3NGFiLWY3YTAtNDA0ZS04OGIyLWI0ZjE2MzM3M2RiZS8wLm0zdTg
+#EXTINF:-1 tvg-id="RPlusGould" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/RPlus_Gold_logo_%282013%29.png" group-title="Bangla",R Plus Gold
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly90aGVsZWdpdHByby5pbi9wbnR2L3JwbHVzbmV3czI0eDcvdHJhY2tzLXYxYTEvbW9uby5tM3U4
 #EXTINF:-1 tvg-id="indiatoday.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/India_Today_TV.jpg" group-title="India",NEWS | India Today
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9kMmxrNXU1OXRuczc0Yy5jbG91ZGZyb250Lm5ldC9vdXQvdjEvZDQ0MzUwMzljN2QxNDMzZDliOWQwYjZjZGM5ZGQ0ZmYvaW5kZXgubTN1OA
 #EXTINF:-1 tvg-id="Aap Ki Adalat" tvg-logo="https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly95dDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLy1MS0RrWG1HOHktZ2tLRHpFUzVhVUk4U1lGdERYUjhGNzM1MWNDQUNiOE9QMGFwOU1rSTVtb3h3RkxvQVdOUmpWRVhLSm1IM3BRPXM3Mi1jLWstYzB4MDBmZmZmZmYtbm8tcmo" group-title="India",NEWS | Aap Ki Adalat
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hbWcwMTU1MC1pbmRpYXR2LWluZGlhdHYtYWFwa2lhZGFsYXQtbWkteGlhb21pLW41dHVrLmFtYWdpLnR2L3BsYXlsaXN0L2FtZzAxNTUwLWluZGlhdHYtaW5kaWF0di1hYXBraWFkYWxhdC1taS14aWFvbWkvcGxheWxpc3QubTN1OA
+#EXTINF:-1 tvg-id="R Plus News" tvg-logo="https://rplus.in/wp-content/uploads/2025/06/RPLUS_NEWS.png" group-title="Bangla News",IN | R Plus News
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly90aGVsZWdpdHByby5pbi9wbnR2L3JwbHVzbmV3czI0eDcvaW5kZXgubTN1OA
+#EXTINF:-1 tvg-id="CalcuttaNews" tvg-logo="https://assets.calcuttatelevisionnetwork.in/cn.png" group-title="Bangla News",IN | Calcutta News
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9ha2RuZXR3b3JrLmNvLmluL2xpdmUvY25uZXcvaW5kZXgubTN1OA
 #EXTINF:-1 tvg-id="ZEEBUSINESS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Zee_Business_%282025%29.svg" group-title="India",NEWS | ZEE BUSINESS
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9kd2J5MTVkMDRhZ3ZxLmNsb3VkZnJvbnQubmV0L2luZGV4XzEubTN1OA
 #EXTINF:-1 tvg-id="ndtvindia" tvg-logo="https://logodix.com/logo/2131933.jpg" group-title="India",NEWS | NDTV Hindi
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9uZHR2aW5kaWFlbGVtYXJjaGFuYS5ha2FtYWl6ZWQubmV0L2hscy9saXZlLzIwMDM2NzktYi9uZHR2aW5kaWEvbWFzdGVyLm0zdTg
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/CazeTV2022.svg", Caze TV Brazil 🇧🇷
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9kZnI4MHF6NDM1Y3JjLmNsb3VkZnJvbnQubmV0L01OT1AvQW1hZ2kvQ2F6ZS9DYXplX1RWX0JSL0NhemVfVFYubTN1OA
-#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="world cup",Football World Cup
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4xNjUuOTMuMzE6ODA5NS90c3BvcnRzL3ZpZGVvLm0zdTg
 #EXTINF:-1 tvg-id="93000" tvg-name="ATN News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="SM All TV",ATN News
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0lQVFZGbGl4QkQvT29wc1R2L3JlZnMvaGVhZHMvbWFpbi9DaGFubmVscy85MDg2NjAubTN1OA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N09UZWA.png",TSN1
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL3Jna2t3LmxpdmUvbGl2ZS8xQW9lbjdlbHA1L0lnTUo2MHRtQWEvNzQ4Mzg4LnRz
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yTl9XIh.png" ,Unite8
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4xNjUuOTMuMzE6ODA5NS91bnQtcy92aWRlby5tM3U4
-#EXTINF:-1 tvg-name="Welcome to PlayZ TV" group-title="Welcome to PlayZ TV | New App" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyniKyW9pUz1OKx5bgzLASwGVSuP0e7hX9FxVMTJMHxhu8X0tpucgSplBZgM8pCYrJJH0P2_dTC1-wzp4mMUU4sKnOzghGPCwWdbYOOa4jTyhpr7ydNj-UK-bc56IMsk2H3WZJ-SzSZIk0dTpyABCFR2_zjC2_c86W1pv7odFBT_Y-hyJs62g-3zCJkPGd/s1024/1000398131.png",Welcome to PlayZ TV
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9wbGF5enR2LnBhZ2VzLmRldi9wcm9tby9tYXN0ZXIubTN1OA
-#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com//Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png"group-title="SM All TV" group-title="SM All TV",Somoy TV
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzExNC4xMzAuNTcuMjMzOjgwODAvU29tb3ktVFYtM01iL3ZpZGVvLm0zdTg_dG9rZW49U2tRdWhBWFp4Z0JhbjE
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png" group-title="SM All TV",T Sports HD
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzExNC4xMzAuNTcuMjMzOjgwODAvVC1TcG9ydHMvdHJhY2tzLXYxYTEvbW9uby5tM3U4P3Rva2VuPVNrUXVoQVhaeGdCYW4x
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png" group-title="SM All TV",Star Jalsha HD
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL3ByZW1pdW10dnMuc3BhY2UvbGl2ZS8xQW9lbjdlbHA1L0lnTUo2MHRtQWEvODU0MC50cw
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/cd/Ekushey_Television_logo_2000-2002%2C_2007.png",Ekushey TV
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzIxMC40LjcyLjIwNC9obHMtbGl2ZS9saXZlcGtnci9fZGVmaW5zdF8vbGl2ZWV2ZW50L2xpdmVzdHJlYW0zLm0zdTg
+#EXTINF:-1 tvg-name="Welcome to PlayZ TV" group-title="Welcome to PlayZ TV | New App" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyniKyW9pUz1OKx5bgzLASwGVSuP0e7hX9FxVMTJMHxhu8X0tpucgSplBZgM8pCYrJJH0P2_dTC1-wzp4mMUU4sKnOzghGPCwWdbYOOa4jTyhpr7ydNj-UK-bc56IMsk2H3WZJ-SzSZIk0dTpyABCFR2_zjC2_c86W1pv7odFBT_Y-hyJs62g-3zCJkPGd/s1024/1000398131.png",Welcome to PlayZ TV
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9wbGF5enR2LnBhZ2VzLmRldi9wcm9tby9tYXN0ZXIubTN1OA
 #EXTINF:-1 tvg-logo="http://data.jaagobd.com/media/channel_logos/C16.jpg" group-title="SM All TV",Makkah TV
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAyNC5qYWdvYmQuY29tLmJkL2MzVnlkbVZ5WDhScGJFVTlNaTh4Tnk4eU1GREVFSEdjZlJnelE2TlRBZ2RFb2FlRnpiRjkyWVd4SVpUTzBVMGV6TjFJek15ZnZjRWRzRWZlRGVLaU5rVk4zUFRPbWRGc2VXUnRhVzUxYWlQaG5QVEkyL21ha2thaC5zdHJlYW0vcGxheWxpc3QubTN1OA
-#EXTINF:-1 tvg-logo="http://data.jaagobd.com/media/channel_logos/Noboruptvnew.jpeg" group-title="SM All TV",Music Bangla 2025
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAyNC5qYWdvYmQuY29tLmJkL2MzVnlkbVZ5WDhScGJFVTlNaTh4Tnk4eU1GREVFSEdjZlJnelE2TlRBZ2RFb2FlRnpiRjkyWVd4SVpUTzBVMGV6TjFJek15ZnZjRWRzRWZlRGVLaU5rVk4zUFRPbWRGc2VXUnRhVzUxYWlQaG5QVEkyL211c2ljYmFuZ2xhMjAyNS5zdHJlYW0vcGxheWxpc3QubTN1OA
-#EXTINF:-1 tvg-logo="http://data.jaagobd.com/media/channel_logos/citigen_tv.jpeg" group-title="SM All TV",Citizen TV
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAyNC5qYWdvYmQuY29tLmJkL2MzVnlkbVZ5WDhScGJFVTlNaTh4Tnk4eU1GREVFSEdjZlJnelE2TlRBZ2RFb2FlRnpiRjkyWVd4SVpUTzBVMGV6TjFJek15ZnZjRWRzRWZlRGVLaU5rVk4zUFRPbWRGc2VXUnRhVzUxYWlQaG5QVEkyL2NpdGl6ZW50di5zdHJlYW0vcGxheWxpc3QubTN1OA
-#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/bbc-bangla.png" group-title="SM All TV",BBC Bangla
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hLmZpbGVzLmJiY2kuY28udWsvbXM2L2xpdmUvMzQ0MUExMTYtQjEyRS00RDJGLUFDQTgtQzE5ODQ2NDJGQTRCL2F1ZGlvL3NpbXVsY2FzdC9kYXNoL25vbnVrL2NlbGx1bGFyX21haW5fc2RfYWJyX3YyL2Nmcy9iYmNfd29ybGRfc2VydmljZS5tcGQ
-#EXTINF:-1 tvg-logo="http://data.jaagobd.com/media/channel_logos/rb.png" group-title="SM All TV",Ruposhi Bangla
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAyNC5qYWdvYmQuY29tLmJkL2MzVnlkbVZ5WDhScGJFVTlNaTh4Tnk4eU1GREVFSEdjZlJnelE2TlRBZ2RFb2FlRnpiRjkyWVd4SVpUTzBVMGV6TjFJek15ZnZjRWRzRWZlRGVLaU5rVk4zUFRPbWRGc2VXUnRhVzUxYWlQaG5QVEkyL3J1cG9zaGliYW5nbGEuc3RyZWFtL3BsYXlsaXN0Lm0zdTg
+#EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="world cup",Football World Cup
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4xNjUuOTMuMzE6ODA5NS90c3BvcnRzL3ZpZGVvLm0zdTg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yTl9XIh.png" ,Unite8
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4xNjUuOTMuMzE6ODA5NS91bnQtcy92aWRlby5tM3U4
 #EXTINF:-1 tvg-logo="http://data.jaagobd.com/media/channel_logos/Movie_Bangla_Yi8Lxqy.jpg" group-title="SM All TV",Movie Bangla
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAyNC5qYWdvYmQuY29tLmJkL2MzVnlkbVZ5WDhScGJFVTlNaTh4Tnk4eU1GREVFSEdjZlJnelE2TlRBZ2RFb2FlRnpiRjkyWVd4SVpUTzBVMGV6TjFJek15ZnZjRWRzRWZlRGVLaU5rVk4zUFRPbWRGc2VXUnRhVzUxYWlQaG5QVEkyL21vdmllYmFuZ2xhbGluazIuc3RyZWFtL3BsYXlsaXN0Lm0zdTg
+#EXTINF:-1 tvg-logo="http://data.jaagobd.com/media/channel_logos/Noboruptvnew.jpeg" group-title="SM All TV",Music Bangla 2025
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAyNC5qYWdvYmQuY29tLmJkL2MzVnlkbVZ5WDhScGJFVTlNaTh4Tnk4eU1GREVFSEdjZlJnelE2TlRBZ2RFb2FlRnpiRjkyWVd4SVpUTzBVMGV6TjFJek15ZnZjRWRzRWZlRGVLaU5rVk4zUFRPbWRGc2VXUnRhVzUxYWlQaG5QVEkyL211c2ljYmFuZ2xhMjAyNS5zdHJlYW0vcGxheWxpc3QubTN1OA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/tv/T-Sports.png" group-title="SM All TV",T Sports HD
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzExNC4xMzAuNTcuMjMzOjgwODAvVC1TcG9ydHMvdHJhY2tzLXYxYTEvbW9uby5tM3U4P3Rva2VuPVNrUXVoQVhaeGdCYW4x
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com//Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png"group-title="SM All TV" group-title="SM All TV",Somoy TV
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzExNC4xMzAuNTcuMjMzOjgwODAvU29tb3ktVFYtM01iL3ZpZGVvLm0zdTg_dG9rZW49U2tRdWhBWFp4Z0JhbjE
 #EXTINF:-1 tvg-logo="http://data.jaagobd.com/media/channel_logos/EPTV-Logo-400x400.png" group-title="SM All TV",EP TV
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAyNC5qYWdvYmQuY29tLmJkL2MzVnlkbVZ5WDhScGJFVTlNaTh4Tnk4eU1GREVFSEdjZlJnelE2TlRBZ2RFb2FlRnpiRjkyWVd4SVpUTzBVMGV6TjFJek15ZnZjRWRzRWZlRGVLaU5rVk4zUFRPbWRGc2VXUnRhVzUxYWlQaG5QVEkyL2VwdHYuc3RyZWFtL3BsYXlsaXN0Lm0zdTg
+#EXTINF:-1 tvg-logo="http://data.jaagobd.com/media/channel_logos/citigen_tv.jpeg" group-title="SM All TV",Citizen TV
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAyNC5qYWdvYmQuY29tLmJkL2MzVnlkbVZ5WDhScGJFVTlNaTh4Tnk4eU1GREVFSEdjZlJnelE2TlRBZ2RFb2FlRnpiRjkyWVd4SVpUTzBVMGV6TjFJek15ZnZjRWRzRWZlRGVLaU5rVk4zUFRPbWRGc2VXUnRhVzUxYWlQaG5QVEkyL2NpdGl6ZW50di5zdHJlYW0vcGxheWxpc3QubTN1OA
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="BANGLA",Deshe Bideshe
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9kYmNhbmFkYS5zb25hcmJhbmdsYXR2LmNvbS9kZXNoZWJpZGVzaGUvZGJ0di9pbmRleC5tM3U4
+#EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/bbc-bangla.png" group-title="SM All TV",BBC Bangla
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hLmZpbGVzLmJiY2kuY28udWsvbXM2L2xpdmUvMzQ0MUExMTYtQjEyRS00RDJGLUFDQTgtQzE5ODQ2NDJGQTRCL2F1ZGlvL3NpbXVsY2FzdC9kYXNoL25vbnVrL2NlbGx1bGFyX21haW5fc2RfYWJyX3YyL2Nmcy9iYmNfd29ybGRfc2VydmljZS5tcGQ
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BadhanStrom/img/refs/heads/main/G-Series_Logo.png" group-title="SM All TV",Drama 24
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly92b2RzMi5heW5hb3R0LmNvbS9nc2VyaWVzRHJhbWEvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4
-#EXTINF:-1 tvg-logo="https://spicefmbd.com/logospice.png" group-title="SM All TV",Spice FM
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9zdHJlYW0uc3BpY2VmbWJkLmNvbS9zdHJlYW0ubTN1OA
 #EXTINF:-1 tvg-id="t sports" tvg-name="T-Sports" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="world cup",Football World Cup
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9mbHVzc29uaWMuZGVsdGFpbmZvbmV0LmNvbS8wMV9Uc3BvcnRzX0hEL3RyYWNrcy12MWExL21vbm8ubTN1OA
 #EXTINF:-1 tvg-logo="https://cdn.instant.audio/images/logos/radio-bd-com/bangla-net.png" group-title="SM All TV",Radio Bangla Net
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9wbGF5ZXJzZXJ2aWNlcy5zdHJlYW10aGV3b3JsZC5jb20vYXBpL2xpdmVzdHJlYW0tcmVkaXJlY3QvU1BfUjM1NjM0NzVfU0M
-#EXTINF:-1 tvg-logo="https://m.economictimes.com/thumb/msid-71679942,width-1200,height-900,resizemode-4,imgsize-42753/radio-mirchi-agencies.jpg" group-title="SM All TV",Radio Mirchi
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9ldTguZmFzdGNhc3Q0dS5jb20vcHJveHkvY2x5ZWR1cHE_bXA9JTJGMT9hd18wX3JlcV9sc2lkPTJjMGZhZTE3NzEwOGM5YTQyYTdjZjI0ODc4NjI1NDQ0
-#EXTINF:-1 tvg-name="Green TV (1080p)" group-title="Unknown",Green TV (1080p)
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAubmNhcmUubGl2ZS9jM1Z5ZG1WeVg4UnBiRVU5TWk4eE55OHlNREUwR0lEVTZSZ3pRNk5UQWdkRW9hZUZ6YkY5MllXeElaVE8wVTBlek4xSXpNeWZ2Y0dWTVpFSkNURUZXZVZOM1BUT21kRnNhV1J0YVc1MWFpUGhuUFRJMi9ncmVlbnR2LnN0cmVhbS9saXZlLW9yZ2luL2dyZWVudHYuc3RyZWFtL3BsYXlsaXN0Lm0zdTg
-#EXTINF:-1 tvg-name="Channel S" group-title="Unknown",Channel S
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAubmNhcmUubGl2ZS9jM1Z5ZG1WeVg4UnBiRVU5TWk4eE55OHlNREUwR0lEVTZSZ3pRNk5UQWdkRW9hZUZ6YkY5MllXeElaVE8wVTBlek4xSXpNeWZ2Y0dWTVpFSkNURUZXZVZOM1BUT21kRnNhV1J0YVc1MWFpUGhuUFRJMi9jaGFubmVscy5zdHJlYW0vbGl2ZS1vcmdpbi9jaGFubmVscy5zdHJlYW0vcGxheWxpc3QubTN1OA
-#EXTINF:-1 tvg-name="Gazi TV" group-title="Unknown",Gazi TV
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAubmNhcmUubGl2ZS9jM1Z5ZG1WeVg4UnBiRVU5TWk4eE55OHlNREUwR0lEVTZSZ3pRNk5UQWdkRW9hZUZ6YkY5MllXeElaVE8wVTBlek4xSXpNeWZ2Y0dWTVpFSkNURUZXZVZOM1BUT21kRnNhV1J0YVc1MWFpUGhuUFRJMi9nYXppYmR6LnN0cmVhbS9saXZlLW9yZ2luL2dhemliZHouc3RyZWFtL3BsYXlsaXN0Lm0zdTg
+#EXTINF:-1 tvg-logo="https://spicefmbd.com/logospice.png" group-title="SM All TV",Spice FM
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9zdHJlYW0uc3BpY2VmbWJkLmNvbS9zdHJlYW0ubTN1OA
+#EXTINF:-1 tvg-logo="http://data.jaagobd.com/media/channel_logos/rb.png" group-title="SM All TV",Ruposhi Bangla
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAyNC5qYWdvYmQuY29tLmJkL2MzVnlkbVZ5WDhScGJFVTlNaTh4Tnk4eU1GREVFSEdjZlJnelE2TlRBZ2RFb2FlRnpiRjkyWVd4SVpUTzBVMGV6TjFJek15ZnZjRWRzRWZlRGVLaU5rVk4zUFRPbWRGc2VXUnRhVzUxYWlQaG5QVEkyL3J1cG9zaGliYW5nbGEuc3RyZWFtL3BsYXlsaXN0Lm0zdTg
 #EXTINF:-1 tvg-name="Desh TV (1080p)" group-title="Unknown",Desh TV (1080p)
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9ib3p6dHYuY29tL3JvbmdvL3JvbmdvLURlc2hUVi9pbmRleC5tM3U4
-#EXTINF:-1 tvg-name="Motor Vision" group-title="Cricket ",Motor Vision
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9tdmctbXYteHVtby5vdHRlcmF2aXNpb24uY29tL212Zy9tdi9tdi5tM3U4
+#EXTINF:-1 tvg-name="Somoy News TV (1080p)" group-title="Unknown",Somoy News TV (1080p)
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9ib3p6dHYuY29tL3JvbmdvL3JvbmdvLXNvbW95L2luZGV4Lm0zdTg
+#EXTINF:-1 tvg-name="Green TV (1080p)" group-title="Unknown",Green TV (1080p)
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAubmNhcmUubGl2ZS9jM1Z5ZG1WeVg4UnBiRVU5TWk4eE55OHlNREUwR0lEVTZSZ3pRNk5UQWdkRW9hZUZ6YkY5MllXeElaVE8wVTBlek4xSXpNeWZ2Y0dWTVpFSkNURUZXZVZOM1BUT21kRnNhV1J0YVc1MWFpUGhuUFRJMi9ncmVlbnR2LnN0cmVhbS9saXZlLW9yZ2luL2dyZWVudHYuc3RyZWFtL3BsYXlsaXN0Lm0zdTg
 #EXTINF:-1 tvg-name="Desh TV" group-title="Bangladeshi ",Desh TV
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9ib3p6dHYuY29tL3JvbmdvL3JvbmdvLURlc2hUVi90cmFja3MtdjFhMS9tb25vLm0zdTg
-#EXTINF:-1 tvg-name="Bein Sports 1 Max Arabic" group-title="FIFA World Cup 2026",Bein Sports 1 Max Arabic
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL3N0YXJodWIucHJvL2xpdmUvZmFyaGF0LTMzNzkvNjc4OTctOTEzMzc5Lzc0NDUxNy50cw
-#EXTINF:-1 tvg-name="My TV" group-title="Unknown",My TV
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAubmNhcmUubGl2ZS9jM1Z5ZG1WeVg4UnBiRVU5TWk4eE55OHlNREUwR0lEVTZSZ3pRNk5UQWdkRW9hZUZ6YkY5MllXeElaVE8wVTBlek4xSXpNeWZ2Y0dWTVpFSkNURUZXZVZOM1BUT21kRnNhV1J0YVc1MWFpUGhuUFRJMi9teXR2LXVwLW9mZi5zdHJlYW0vbGl2ZS1vcmdpbi9teXR2LXVwLW9mZi5zdHJlYW0vcGxheWxpc3QubTN1OA
-#EXTINF:-1 tvg-name="Ananda TV" group-title="Unknown",Ananda TV
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAubmNhcmUubGl2ZS9jM1Z5ZG1WeVg4UnBiRVU5TWk4eE55OHlNREUwR0lEVTZSZ3pRNk5UQWdkRW9hZUZ6YkY5MllXeElaVE8wVTBlek4xSXpNeWZ2Y0dWTVpFSkNURUZXZVZOM1BUT21kRnNhV1J0YVc1MWFpUGhuUFRJMi9hbmFuZGF0di5zdHJlYW0vbGl2ZS1vcmdpbi9hbmFuZGF0di5zdHJlYW0vcGxheWxpc3QubTN1OA
-#EXTINF:-1 tvg-name="Arabica TV" group-title="Bangladeshi ",Arabica TV
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL2lzdHJlYW0uYmluYXJ5d2F2ZXMuY29tOjgwODEvaGxzL2FyYWJpY2EvcGxheWxpc3QubTN1OA
-#EXTINF:-1 tvg-logo="https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9zMy5heW5hb3R0LmNvbS9zdG9yYWdlLzE4ODUwMDE5MDM5NWM0ZGUwZTUwNmQ1MTg5MjVkY2M0" group-title="Sports",DD Sports
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9jZG4tNi5waXNob3cudHYvbGl2ZS8xMy9tYXN0ZXIubTN1OA
-#EXTINF:-1 tvg-name="Bein Sports 1" group-title="Football",Bein Sports 1
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9jZG4tdXcyLXByb2QudHN2Mi5hbWFnaS50di9saW5lYXIvYW1nMDI4NzMta3JhdmVtZWRpYS1tdHJzcHQxLWRpc3Ryb3R2L3BsYXlsaXN0Lm0zdTg
-#EXTINF:-1 tvg-name="PBS Kids" group-title="Kids",PBS Kids
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly8yLWZzcy0yLnN0cmVhbWhvc3Rlci5jb20vcGxfMTQwL2FtbHN0OjIwMDkxNC0xMjk4MjkwL3BsYXlsaXN0Lm0zdTg
+#EXTINF:-1 tvg-name="Channel S" group-title="Unknown",Channel S
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAubmNhcmUubGl2ZS9jM1Z5ZG1WeVg4UnBiRVU5TWk4eE55OHlNREUwR0lEVTZSZ3pRNk5UQWdkRW9hZUZ6YkY5MllXeElaVE8wVTBlek4xSXpNeWZ2Y0dWTVpFSkNURUZXZVZOM1BUT21kRnNhV1J0YVc1MWFpUGhuUFRJMi9jaGFubmVscy5zdHJlYW0vbGl2ZS1vcmdpbi9jaGFubmVscy5zdHJlYW0vcGxheWxpc3QubTN1OA
 #EXTINF:-1 tvg-name="Cartoon Network" group-title="Kids",Cartoon Network
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0dnBsYXlvdXQ3L2dpYXR2LTIwOTYyNC9pbmRleC5tM3U4
+#EXTINF:-1 tvg-name="My TV" group-title="Unknown",My TV
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAubmNhcmUubGl2ZS9jM1Z5ZG1WeVg4UnBiRVU5TWk4eE55OHlNREUwR0lEVTZSZ3pRNk5UQWdkRW9hZUZ6YkY5MllXeElaVE8wVTBlek4xSXpNeWZ2Y0dWTVpFSkNURUZXZVZOM1BUT21kRnNhV1J0YVc1MWFpUGhuUFRJMi9teXR2LXVwLW9mZi5zdHJlYW0vbGl2ZS1vcmdpbi9teXR2LXVwLW9mZi5zdHJlYW0vcGxheWxpc3QubTN1OA
+#EXTINF:-1 tvg-name="Gazi TV" group-title="Unknown",Gazi TV
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAubmNhcmUubGl2ZS9jM1Z5ZG1WeVg4UnBiRVU5TWk4eE55OHlNREUwR0lEVTZSZ3pRNk5UQWdkRW9hZUZ6YkY5MllXeElaVE8wVTBlek4xSXpNeWZ2Y0dWTVpFSkNURUZXZVZOM1BUT21kRnNhV1J0YVc1MWFpUGhuUFRJMi9nYXppYmR6LnN0cmVhbS9saXZlLW9yZ2luL2dhemliZHouc3RyZWFtL3BsYXlsaXN0Lm0zdTg
+#EXTINF:-1 tvg-name="Motor Vision" group-title="Cricket ",Motor Vision
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9tdmctbXYteHVtby5vdHRlcmF2aXNpb24uY29tL212Zy9tdi9tdi5tM3U4
+#EXTINF:-1 tvg-name="Bein Sports 1 Max Arabic" group-title="FIFA World Cup 2026",Bein Sports 1 Max Arabic
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL3N0YXJodWIucHJvL2xpdmUvZmFyaGF0LTMzNzkvNjc4OTctOTEzMzc5Lzc0NDUxNy50cw
+#EXTINF:-1 tvg-name="PBS Kids" group-title="Kids",PBS Kids
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly8yLWZzcy0yLnN0cmVhbWhvc3Rlci5jb20vcGxfMTQwL2FtbHN0OjIwMDkxNC0xMjk4MjkwL3BsYXlsaXN0Lm0zdTg
 #EXTINF:-1 tvg-name="AL SUNNAH TV" group-title="ISLAMIC CHANNELS",AL SUNNAH TV
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL20ubGl2ZS5uZXQuc2E6MTkzNS9saXZlL3N1bm5haC9wbGF5bGlzdC5tM3U4
-#EXTINF:-1 tvg-name="Travel XP English" group-title="Infotainment Channels",Travel XP English
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly90cmF2ZWx4cC10cmF2ZWx4cC0xLWV1LnJha3V0ZW4ud3VybC50di9wbGF5bGlzdC5tM3U4
-#EXTINF:-1 tvg-name="Saudia Arabia" group-title="Cricket ",Saudia Arabia
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9zaGQtZ2NwLWxpdmUuZWRnZW5leHRjZG4ubmV0L2xpdmUvYml0bW92aW4tc2F1ZGktdHYvMmFkNjYwNTZiNTFmZDhjMWI2MjQ4NTQ2MjMxMTJlNDMvaW5kZXgubTN1OA
 #EXTINF:-1 tvg-name="Sunnah Tv" group-title="ISLAMIC CHANNELS",Sunnah Tv
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL20ubGl2ZS5uZXQuc2E6MTkzNS9saXZlL3N1bm5haC9jaHVua2xpc3QubTN1OD92PTE
 #EXTINF:-1 tvg-name="QURAN" group-title="ISLAMIC CHANNELS",QURAN
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL20ubGl2ZS5uZXQuc2E6MTkzNS9saXZlL3F1cmFuL3BsYXlsaXN0Lm0zdTg
-#EXTINF:-1 tvg-name="DW NEWS" group-title="NEWS INTERNASIONAL",DW NEWS
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9kd2FtZHN0cmVhbTEwMi5ha2FtYWl6ZWQubmV0L2hscy9saXZlLzIwMTU1MjUvZHdzdHJlYW0xMDIvc3RyZWFtMDIvc3RyZWFtUGxheWxpc3QubTN1OA
+#EXTINF:-1 tvg-name="Channel 1 News HD" group-title="Cricket ",Channel 1 News HD
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAyNC5qYWdvYmQuY29tLmJkL2MzVnlkbVZ5WDhScGJFVTlNaTh4Tnk4eU1GREVFSEdjZlJnelE2TlRBZ2RFb2FlRnpiRjkyWVd4SVpUTzBVMGV6TjFJek15ZnZjRWRzRWZlRGVLaU5rVk4zUFRPbWRGc2VXUnRhVzUxYWlQaG5QVEkyL2NoYW5uZWwxYmQuc3RyZWFtL3RyYWNrcy12MWExL21vbm8ubTN1OA
+#EXTINF:-1 tvg-name="Arabica TV" group-title="Bangladeshi ",Arabica TV
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL2lzdHJlYW0uYmluYXJ5d2F2ZXMuY29tOjgwODEvaGxzL2FyYWJpY2EvcGxheWxpc3QubTN1OA
+#EXTINF:-1 tvg-name="Travel XP English" group-title="Infotainment Channels",Travel XP English
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly90cmF2ZWx4cC10cmF2ZWx4cC0xLWV1LnJha3V0ZW4ud3VybC50di9wbGF5bGlzdC5tM3U4
 #EXTINF:-1 tvg-name="Live Quran TV" group-title="Cricket ",Live Quran TV
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlLmt3aWttb3Rpb24uY29tL3NoYXJqYWh0dnF1cmFubGl2ZS9zaHF1cmFudHYuc21pbC9wbGF5bGlzdC5tM3U4
-#EXTINF:-1 tvg-name="AL EKHBARIA" group-title="ISLAMIC CHANNELS",AL EKHBARIA
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9zaGQtZ2NwLWxpdmUuZWRnZW5leHRjZG4ubmV0L2xpdmUvYml0bW92aW4tYWwtZWtoYmFyaWEvMjk3YjNlZjFjZDA2MzNhZDljZmJhNzQ3M2E2ODZhMDYvaW5kZXgubTN1OA
+#EXTINF:-1 tvg-name="DW NEWS" group-title="NEWS INTERNASIONAL",DW NEWS
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9kd2FtZHN0cmVhbTEwMi5ha2FtYWl6ZWQubmV0L2hscy9saXZlLzIwMTU1MjUvZHdzdHJlYW0xMDIvc3RyZWFtMDIvc3RyZWFtUGxheWxpc3QubTN1OA
+#EXTINF:-1 tvg-logo="https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9zMy5heW5hb3R0LmNvbS9zdG9yYWdlLzE4ODUwMDE5MDM5NWM0ZGUwZTUwNmQ1MTg5MjVkY2M0" group-title="Sports",DD Sports
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9jZG4tNi5waXNob3cudHYvbGl2ZS8xMy9tYXN0ZXIubTN1OA
+#EXTINF:-1 tvg-name="Bein Sports 1" group-title="Football",Bein Sports 1
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9jZG4tdXcyLXByb2QudHN2Mi5hbWFnaS50di9saW5lYXIvYW1nMDI4NzMta3JhdmVtZWRpYS1tdHJzcHQxLWRpc3Ryb3R2L3BsYXlsaXN0Lm0zdTg
+#EXTINF:-1 tvg-name="Iran International(EN)" group-title="NEWS INTERNASIONAL",Iran International(EN)
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9kZXYtbGl2ZS5saXZldHZzdHJlYW0uY28udWsvTFMtNjM1MDMtNC9jaHVua2xpc3RfYjExOTYwMDAubTN1OA
+#EXTINF:-1 tvg-name="Madani Tv" group-title="ISLAMIC CHANNELS",Madani Tv
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9zdHJlYW1pbmcubWFkYW5pY2hhbm5lbC50di9zdGF0aWMvc3RyZWFtaW5nLXBsYXlsaXN0cy9obHMvZDNlNDliNzYtYWMwNi00Njg5LWE2NDEtOTIwMDQ0NWI2NDdmL21hc3Rlci5tM3U4
+#EXTINF:-1 tvg-name="" group-title="ISLAMIC CHANNELS",
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9jZG4tZ2xvYmVjYXN0LmFrYW1haXplZC5uZXQvbGl2ZS9lZHMvc2F1ZGlfc3VubmFoL2hsc19yb2t1L2luZGV4Lm0zdTg
 #EXTINF:-1 tvg-name="AL EKHBARIA" group-title="ISLAMIC CHANNELS",AL EKHBARIA
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9jZG4tZ2xvYmVjYXN0LmFrYW1haXplZC5uZXQvbGl2ZS9lZHMvYWxfZWtoYmFyaXlhL2hsc19yb2t1L2luZGV4Lm0zdTg
 #EXTINF:-1 tvg-name="T Global News (Canada)" group-title="NEWS INTERNASIONAL",T Global News (Canada)
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlLmNvcnVzZGlnaXRhbGRldi5jb20vZ3JvdXBkL2xpdmUvNDlhOTFlN2YtMTAyMy00MzBmLThkNjYtNTYxMDU1ZjNkMGY3L2xpdmUuaXNtbC9tYXN0ZXIubTN1OA
-#EXTINF:-1 tvg-name="Madani Tv" group-title="ISLAMIC CHANNELS",Madani Tv
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9zdHJlYW1pbmcubWFkYW5pY2hhbm5lbC50di9zdGF0aWMvc3RyZWFtaW5nLXBsYXlsaXN0cy9obHMvZDNlNDliNzYtYWMwNi00Njg5LWE2NDEtOTIwMDQ0NWI2NDdmL21hc3Rlci5tM3U4
 #EXTINF:-1 tvg-name="" group-title="ISLAMIC CHANNELS",
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9kemt5dmxmeWdlLmVyYnZyLmNvbS9QZWFjZVR2QmFuZ2xhL3RyYWNrcy12M2ExL21vbm8ubTN1OD9zaWQ9czdBYU5kVHpERTI5MTJ3TmNQTGVqUQ
-#EXTINF:-1 tvg-name="" group-title="ISLAMIC CHANNELS",
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9jZG4tZ2xvYmVjYXN0LmFrYW1haXplZC5uZXQvbGl2ZS9lZHMvc2F1ZGlfc3VubmFoL2hsc19yb2t1L2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-name="Ekushey TV (480p)" group-title="Unknown",Ekushey TV (480p)
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9la3VzaGV5c2VydmVyLmNvbS9ldHZsaXZlc24ubTN1OA
-#EXTINF:-1 tvg-name="Global News (US)" group-title="NEWS INTERNASIONAL",Global News (US)
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlLmNvcnVzZGlnaXRhbGRldi5jb20vZ3JvdXBiL2xpdmUvMzA2MmQwZTMtZWQ0Yy00ZjQ3LTg0ODItOTU2NDgyNTBmNGI4L2xpdmUuaXNtbC8ubTN1OA
-#EXTINF:-1 tvg-name="Iran International(EN)" group-title="NEWS INTERNASIONAL",Iran International(EN)
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9kZXYtbGl2ZS5saXZldHZzdHJlYW0uY28udWsvTFMtNjM1MDMtNC9jaHVua2xpc3RfYjExOTYwMDAubTN1OA
 #EXTINF:-1 tvg-name="QURAN RADIOTV SMC" group-title="ISLAMIC CHANNELS",QURAN RADIOTV SMC
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlLmt3aWttb3Rpb24uY29tL3NtY3F1cmFubGl2ZS9xdXJhbnJhZGlvbGl2ZS9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-name="France News 24" group-title="NEWS INTERNASIONAL TV",France News 24
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlLmZyYW5jZTI0LmNvbS9obHMvbGl2ZS8yMDM3MTc5L0YyNF9GUl9ISV9ITFMvbWFzdGVyXzUwMDAubTN1OA
 #EXTINF:-1 tvg-name="Insight" group-title="Documentary",Insight
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9pbnNpZ2h0dHYtc2Ftc3VuZy11cy5hbWFnaS50di9wbGF5bGlzdC5tM3U4
-#EXTINF:-1 tvg-name="CNN (US)" group-title="NEWS INTERNASIONAL",CNN (US)
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly90dXJuZXJsaXZlLndhcm5lcm1lZGlhY2RuLmNvbS9obHMvbGl2ZS81ODY0OTUvY25uZ28vY25uX3NsYXRlL1ZJREVPXzBfMzU2NDAwMC5tM3U4
-#EXTINF:-1 tvg-name="Al Quran Radio" group-title="Radio FM ",Al Quran Radio
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzY2LjQ1LjIzMi4xMzE6OTk5NC87c3RyZWFtLm1wMw
-#EXTINF:-1 tvg-name="Bein Sports" group-title="FIFA World Cup 2026",Bein Sports
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL3VhLm9ubGluZTI0LnBtL3BsYXkvMTEwMS8zNTBCMzI2RkIzNEY0QjgvdmlkZW8ubTN1OA
+#EXTINF:-1 tvg-name="Global News (US)" group-title="NEWS INTERNASIONAL",Global News (US)
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlLmNvcnVzZGlnaXRhbGRldi5jb20vZ3JvdXBiL2xpdmUvMzA2MmQwZTMtZWQ0Yy00ZjQ3LTg0ODItOTU2NDgyNTBmNGI4L2xpdmUuaXNtbC8ubTN1OA
+#EXTINF:-1 tvg-name="AL EKHBARIA" group-title="ISLAMIC CHANNELS",AL EKHBARIA
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9zaGQtZ2NwLWxpdmUuZWRnZW5leHRjZG4ubmV0L2xpdmUvYml0bW92aW4tYWwtZWtoYmFyaWEvMjk3YjNlZjFjZDA2MzNhZDljZmJhNzQ3M2E2ODZhMDYvaW5kZXgubTN1OA
+#EXTINF:-1 tvg-name="Saudia Arabia" group-title="Cricket ",Saudia Arabia
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9zaGQtZ2NwLWxpdmUuZWRnZW5leHRjZG4ubmV0L2xpdmUvYml0bW92aW4tc2F1ZGktdHYvMmFkNjYwNTZiNTFmZDhjMWI2MjQ4NTQ2MjMxMTJlNDMvaW5kZXgubTN1OA
 #EXTINF:-1 tvg-name="News Max 2" group-title="NEWS INTERNASIONAL",News Max 2
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9ubXhsaXZlLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvNTI5OTY1L0xpdmVfMS9pbmRleC5tM3U4
-#EXTINF:-1 tvg-name="AL QAMAR" group-title="ISLAMIC CHANNELS",AL QAMAR
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9zdHJlYW1lcjMucHJlbWlvLmxpbmsvYWxxYW1hci9wbGF5bGlzdC5tM3U4
-#EXTINF:-1 tvg-name="Peace Tv English" group-title="ISLAMIC CHANNELS",Peace Tv English
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9kemt5dmxmeWdlLmVyYnZyLmNvbS9QZWFjZVR2RW5nbGlzaC9pbmRleC5tM3U4
-#EXTINF:-1 tvg-name="Quran" group-title="FM REDIO",Quran
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9kb3dubG9hZC5xdXJhbmljYXVkaW8uY29tL3FkYy9hYmR1cnJhaG1hYW5fYXNfc3VkYWlzL211cmF0dGFsLzk2Lm1wMw
-#EXTINF:-1 tvg-name="Sochi 24 HD" group-title="Infotainment Channels",Sochi 24 HD
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL3NlcnYzMC52aW50ZXJhLnR2OjgwODEvc29jaGkvc29jaGkyNF90di9wbGF5bGlzdC5tM3U4
 #EXTINF:-1 tvg-name="DW English _" group-title="NEWS INTERNASIONAL",DW English _
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9kd2FtZHN0cmVhbTEwMi5ha2FtYWl6ZWQubmV0L2hscy9saXZlLzIwMTU1MjUvZHdzdHJlYW0xMDIvaW5kZXgubTN1OA
 #EXTINF:-1 tvg-name="DW English" group-title="NEWS INTERNASIONAL",DW English
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9kd2FtZHN0cmVhbTEwMi5ha2FtYWl6ZWQubmV0L2hscy9saXZlLzIwMTU1MjUvZHdzdHJlYW0xMDIvaW5kZXgubTN1OD92PTE
-#EXTINF:-1 tvg-name="NDTV English" group-title="NEWS INTERNASIONAL",NDTV English
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9uZHR2MjR4N2VsZW1hcmNoYW5hLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjAwMzY3OC9uZHR2MjR4Ny9tYXN0ZXIubTN1OA
-#EXTINF:-1 tvg-name="France 24 English (720p)" group-title="NEWS INTERNASIONAL",France 24 English (720p)
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlLmZyYW5jZTI0LmNvbS9obHMvbGl2ZS8yMDM3MjE4LWIvRjI0X0VOX0hJX0hMUy9tYXN0ZXJfMjMwMC5tM3U4
-#EXTINF:-1 tvg-name="REAL WILD" group-title="Documentary",REAL WILD
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9jZG4tdWUxLXByb2QudHN2Mi5hbWFnaS50di9saW5lYXIvYW1nMDA0MjYtbGl0dGxlZG90c3R1ZGlvLXJlYWx3aWxkLXRjbC9wbGF5bGlzdC5tM3U4
-#EXTINF:-1 tvg-name="France News 24" group-title="NEWS INTERNASIONAL TV",France News 24
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlLmZyYW5jZTI0LmNvbS9obHMvbGl2ZS8yMDM3MTc5L0YyNF9GUl9ISV9ITFMvbWFzdGVyXzUwMDAubTN1OA
-#EXTINF:-1 tvg-name="Motu Patlu" group-title="CARTOON Drama",Motu Patlu
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0dnBsYXlvdXQ3L2dpYXR2LTIwOTYyMi90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg
+#EXTINF:-1 tvg-name="Al Quran Radio" group-title="Radio FM ",Al Quran Radio
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzY2LjQ1LjIzMi4xMzE6OTk5NC87c3RyZWFtLm1wMw
+#EXTINF:-1 tvg-name="AL QAMAR" group-title="ISLAMIC CHANNELS",AL QAMAR
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9zdHJlYW1lcjMucHJlbWlvLmxpbmsvYWxxYW1hci9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-name="CNN (US)" group-title="NEWS INTERNASIONAL",CNN (US)
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly90dXJuZXJsaXZlLndhcm5lcm1lZGlhY2RuLmNvbS9obHMvbGl2ZS81ODY0OTUvY25uZ28vY25uX3NsYXRlL1ZJREVPXzBfMzU2NDAwMC5tM3U4
+#EXTINF:-1 tvg-name="Bein Sports" group-title="FIFA World Cup 2026",Bein Sports
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL3VhLm9ubGluZTI0LnBtL3BsYXkvMTEwMS8zNTBCMzI2RkIzNEY0QjgvdmlkZW8ubTN1OA
+#EXTINF:-1 tvg-name="Quran" group-title="FM REDIO",Quran
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9kb3dubG9hZC5xdXJhbmljYXVkaW8uY29tL3FkYy9hYmR1cnJhaG1hYW5fYXNfc3VkYWlzL211cmF0dGFsLzk2Lm1wMw
+#EXTINF:-1 tvg-name="Peace Tv English" group-title="ISLAMIC CHANNELS",Peace Tv English
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9kemt5dmxmeWdlLmVyYnZyLmNvbS9QZWFjZVR2RW5nbGlzaC9pbmRleC5tM3U4
 #EXTINF:-1 tvg-name="Gopal Bhar TV" group-title="CARTOON Drama",Gopal Bhar TV
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0dnBsYXlvdXQ3L2dpYXR2LTIwOTYxMS90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg
-#EXTINF:-1 tvg-name="Colors Infinity SD" group-title="Entertainment",Colors Infinity SD
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlY2RuLmxpdmUyNDdzdHJlYW0uY29tL2pvb211c2ljL3R2L3BsYXlsaXN0Lm0zdTg
-#EXTINF:-1 tvg-name="BAHRAIN QURAN" group-title="ISLAMIC CHANNELS",BAHRAIN QURAN
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly81YzdiNjgzMTYyOTQzLnN0cmVhbWxvY2submV0L2xpdmUvbmdycDpiYWhyYWlucXVyYW5fYWxsL3BsYXlsaXN0Lm0zdTg
-#EXTINF:-1 tvg-name="Tom & Jerry TV" group-title="CARTOON Drama",Tom & Jerry TV
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0dnBsYXlvdXQ3L2dpYXR2LTIwODMxNC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg
+#EXTINF:-1 tvg-name="Motu Patlu" group-title="CARTOON Drama",Motu Patlu
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0dnBsYXlvdXQ3L2dpYXR2LTIwOTYyMi90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg
+#EXTINF:-1 tvg-name="REAL WILD" group-title="Documentary",REAL WILD
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9jZG4tdWUxLXByb2QudHN2Mi5hbWFnaS50di9saW5lYXIvYW1nMDA0MjYtbGl0dGxlZG90c3R1ZGlvLXJlYWx3aWxkLXRjbC9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-name="Arihant TV" group-title="Relagion Channel",Arihant TV
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hYXN0aGFvdHQuYWthbWFpemVkLm5ldC8xMTA5MjMvc21pbDphcmloYW50LnNtaWwvY2h1bmtsaXN0X2IxOTI4MDAwLm0zdTg
 #EXTINF:-1 tvg-name="Amazon SAT" group-title="Infotainment Channels",Amazon SAT
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hbWF6b25zYXQuYnJhc2lsc3RyZWFtLmNvbS5ici9obHMvYW1hem9uc2F0L2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-name="Rongeen TV" group-title="Kids",Rongeen TV
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9zZXJ2ZXIudGhlbGVnaXRwcm8uaW4vcm9uZ2VlbnR2L3JvbmdlZW50di90cmFja3MtdjFhMS9tb25vLm0zdTg
-#EXTINF:-1 tvg-name="AL ISTIQAMA" group-title="ISLAMIC CHANNELS",AL ISTIQAMA
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9qbWMtbGl2ZS5lcmNkbi5uZXQvYWxpc3RpcWFtYS9hbGlzdGlxYW1hLm0zdTg
+#EXTINF:-1 tvg-name="France 24 English (720p)" group-title="NEWS INTERNASIONAL",France 24 English (720p)
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlLmZyYW5jZTI0LmNvbS9obHMvbGl2ZS8yMDM3MjE4LWIvRjI0X0VOX0hJX0hMUy9tYXN0ZXJfMjMwMC5tM3U4
 #EXTINF:-1 tvg-name="EWTN TV" group-title="Relagion Channel",EWTN TV
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9jZG4zLndvd3phLmNvbS8xL1pWQllZWEZMTHpFMGMzTkMvUWsxRk1VUkMvaGxzL3FycHN2a3hsLzcyMC9jaHVua2xpc3QubTN1OA
-#EXTINF:-1 tvg-name="Bein Sports Tekrar" group-title="FIFA World Cup 2026",Bein Sports Tekrar
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly91YS5vbmxpbmUyNC5wbS9wbGF5LzExMDMvMzUwQjMyNkZCMzRGNEI4L3ZpZGVvLm0zdTg
-#EXTINF:-1 tvg-name="Press TV Iran" group-title="NEWS INTERNASIONAL TV",Press TV Iran
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlLnByZXNzdHYuaXIvaGxzL3ByZXNzdHZfNV80ODIvaW5kZXgubTN1OA
-#EXTINF:-1 tvg-name="Channel-16" group-title="Bangla Music",Channel-16
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAyNC5qYWdvYmQuY29tLmJkL2MzVnlkbVZ5WDhScGJFVTlNaTh4Tnk4eU1GREVFSEdjZlJnelE2TlRBZ2RFb2FlRnpiRjkyWVd4SVpUTzBVMGV6TjFJek15ZnZjRWRzRWZlRGVLaU5rVk4zUFRPbWRGc2VXUnRhVzUxYWlQaG5QVEkyL2NoYW5uZWwxNmJkLnN0cmVhbS90cmFja3MtdjFhMS9tb25vLm0zdTg
-#EXTINF:-1 tvg-name="Channel 7" group-title="Utrun Broadband",Channel 7
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4xMy4xOTMuMTk0OjgwODIvVC1TUE9SVFMtSEQvdmlkZW8ubTN1OD90b2tlbj1SdXNyaVJNLUw3M0czMw
-#EXTINF:-1 tvg-name="TRT WORLD" group-title="NEWS INTERNASIONAL TV",TRT WORLD
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly90di10cnR3b3JsZC5tZWR5YS50cnQuY29tLnRyL21hc3Rlci5tM3U4
-#EXTINF:-1 tvg-name="FASHION ONE" group-title="Entertainment",FASHION ONE
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9iMDFjMDJubC5tZWRpYXRyaXBsZS5uZXQvdmlkZW9vbmx5bGl2ZS9tdGtnZXVpaHJsZndsaXZlL2Jyb2FkY2FzdF81YzllMmVlNjkwMDUxLnNtaWwvcGxheWxpc3QubTN1OA
-#EXTINF:-1 tvg-name="A SPOR" group-title="Football",A SPOR
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9ybnR0d21qY2luLnR1cmtuZXQuZXJjZG4ubmV0L2xjcG12ZWZieW8vYXNwb3IvYXNwb3JfNDgwcC5tM3U4
-#EXTINF:-1 tvg-name="FASHION ONE" group-title="Entertainment",FASHION ONE
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9iMDFjMDJubC5tZWRpYXRyaXBsZS5uZXQvdmlkZW9vbmx5bGl2ZS9tdGtnZXVpaHJsZndsaXZlL3Vfc3RyZWFtXzVjOWUyZWU2OTk3Y2JfMS9wbGF5bGlzdC5tM3U4
-#EXTINF:-1 tvg-name="Dhoom Music" group-title="Kolkata Bangla Music",Dhoom Music
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzM3OC8zNzhfMC5tM3U4
-#EXTINF:-1 tvg-name="Sheemaroo Bollywood" group-title="Hindi Movies",Sheemaroo Bollywood
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9jZG4tdXcyLXByb2QudHN2Mi5hbWFnaS50di9saW5lYXIvYW1nMDA4NjQtc2hlbWFyb29lbnRlcnRhLXNoZW1hYm9sbHl3b29kLW9uby9wbGF5bGlzdC5tM3U4
-#EXTINF:-1 tvg-name="NK" group-title="Indian Bangla News",NK
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hbWcwMTIxOC1yZXB1YmxpY3R2ZmFzdC1hbWcwMTIxOGMxLXNhbXN1bmctaW4tMTkxOC5wbGF5b3V0cy5ub3cuYW1hZ2kudHYvcGxheWxpc3QvYW1nMDEyMTgtcmVwdWJsaWN0dmZhc3QtcmJhbmdsYS1zYW1zdW5naW4vcGxheWxpc3QubTN1OA
+#EXTINF:-1 tvg-name="Colors Infinity SD" group-title="Entertainment",Colors Infinity SD
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlY2RuLmxpdmUyNDdzdHJlYW0uY29tL2pvb211c2ljL3R2L3BsYXlsaXN0Lm0zdTg
+#EXTINF:-1 tvg-name="Tom & Jerry TV" group-title="CARTOON Drama",Tom & Jerry TV
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0dnBsYXlvdXQ3L2dpYXR2LTIwODMxNC90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg
 #EXTINF:-1 tvg-name="Travel XP English NZ" group-title="Information",Travel XP English NZ
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly90cmF2ZWx4cC10cmF2ZWx4cC0xLW56LnNhbXN1bmcud3VybC50di9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-name="Ekushey TV (480p)" group-title="Unknown",Ekushey TV (480p)
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9la3VzaGV5c2VydmVyLmNvbS9ldHZsaXZlc24ubTN1OA
+#EXTINF:-1 tvg-name="Channel-16" group-title="Bangla Music",Channel-16
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAyNC5qYWdvYmQuY29tLmJkL2MzVnlkbVZ5WDhScGJFVTlNaTh4Tnk4eU1GREVFSEdjZlJnelE2TlRBZ2RFb2FlRnpiRjkyWVd4SVpUTzBVMGV6TjFJek15ZnZjRWRzRWZlRGVLaU5rVk4zUFRPbWRGc2VXUnRhVzUxYWlQaG5QVEkyL2NoYW5uZWwxNmJkLnN0cmVhbS90cmFja3MtdjFhMS9tb25vLm0zdTg
+#EXTINF:-1 tvg-name="NK" group-title="Indian Bangla News",NK
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hbWcwMTIxOC1yZXB1YmxpY3R2ZmFzdC1hbWcwMTIxOGMxLXNhbXN1bmctaW4tMTkxOC5wbGF5b3V0cy5ub3cuYW1hZ2kudHYvcGxheWxpc3QvYW1nMDEyMTgtcmVwdWJsaWN0dmZhc3QtcmJhbmdsYS1zYW1zdW5naW4vcGxheWxpc3QubTN1OA
+#EXTINF:-1 tvg-name="TRT WORLD" group-title="NEWS INTERNASIONAL TV",TRT WORLD
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly90di10cnR3b3JsZC5tZWR5YS50cnQuY29tLnRyL21hc3Rlci5tM3U4
+#EXTINF:-1 tvg-name="NDTV English" group-title="NEWS INTERNASIONAL",NDTV English
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9uZHR2MjR4N2VsZW1hcmNoYW5hLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjAwMzY3OC9uZHR2MjR4Ny9tYXN0ZXIubTN1OA
+#EXTINF:-1 tvg-name="Bein Sports Tekrar" group-title="FIFA World Cup 2026",Bein Sports Tekrar
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly91YS5vbmxpbmUyNC5wbS9wbGF5LzExMDMvMzUwQjMyNkZCMzRGNEI4L3ZpZGVvLm0zdTg
+#EXTINF:-1 tvg-name="BAHRAIN QURAN" group-title="ISLAMIC CHANNELS",BAHRAIN QURAN
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly81YzdiNjgzMTYyOTQzLnN0cmVhbWxvY2submV0L2xpdmUvbmdycDpiYWhyYWlucXVyYW5fYWxsL3BsYXlsaXN0Lm0zdTg
 #EXTINF:-1 tvg-name="Mr Bean Animated" group-title="CARTOON Drama",Mr Bean Animated
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hbWcwMDYyNy1hbWcwMDYyN2MyOS1yYWt1dGVuLWl0LTM5ODkucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0L2FtZzAwNjI3LWJhbmlqYXlmYXN0LW1yYmVhbml0Y2MtcmFrdXRlbml0L3BsYXlsaXN0Lm0zdTg
-#EXTINF:-1 tvg-name="Zee Anmol TV" group-title="Hindi Movies",Zee Anmol TV
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzI1Ni8yNTZfMC5tM3U4
-#EXTINF:-1 tvg-name="Big Magic" group-title="Hindi",Big Magic
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzEzLzEzXzAubTN1OA
-#EXTINF:-1 tvg-name="Greenland 2: Migration (2026) (Hindi)" group-title="English Movies",Greenland 2: Migration (2026) (Hindi)
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL3ByZW1pbXVtLm9ubGluZS9tb3ZpZS9qZW4xMjM0NS9qZW41NDMyMS83MTc3NDYubXA0
-#EXTINF:-1 tvg-name="Jana Nayagan (2026) (Hindi)" group-title="Hindi Dabbing Movies",Jana Nayagan (2026) (Hindi)
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL3ByZW1pbXVtLm9ubGluZS9tb3ZpZS9qZW4xMjM0NS9qZW41NDMyMS83MjQ0ODkubXA0
-#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Hindi Music",Hindi Hits HD
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzE0Ni41OS4yNTMuNTI6ODA4MC9oaW5kaWhpdHNoZC9pbmRleC5tM3U4
-#EXTINF:-1 tvg-name="Zee Action" group-title="Hindi Movies",Zee Action
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzI3MC8yNzBfMC5tM3U4
-#EXTINF:-1 tvg-name="Goldmines Bollywood" group-title="Hindi Movies",Goldmines Bollywood
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzUyLzUyXzAubTN1OA
-#EXTINF:-1 tvg-name="Freelancer" group-title="English Movies",Freelancer
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL3ByZW1pbXVtLm9ubGluZS9tb3ZpZS9qZW4xMjM0NS9qZW41NDMyMS8zNTM3NTEubXA0
-#EXTINF:-1 tvg-name="Action Hollywood Movies" group-title="English Movies",Action Hollywood Movies
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hbWcwMTA3Ni1saWdodG5pbmdpbnRlcm4tYWN0aW9uaG9sbHl3b29kLXNhbXN1bmduei04MnJyeS5hbWFnaS50di9wbGF5bGlzdC9hbWcwMTA3Ni1saWdodG5pbmdpbnRlcm4tYWN0aW9uaG9sbHl3b29kLXNhbXN1bmduei9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-name="AL ISTIQAMA" group-title="ISLAMIC CHANNELS",AL ISTIQAMA
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9qbWMtbGl2ZS5lcmNkbi5uZXQvYWxpc3RpcWFtYS9hbGlzdGlxYW1hLm0zdTg
+#EXTINF:-1 tvg-name="FASHION ONE" group-title="Entertainment",FASHION ONE
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9iMDFjMDJubC5tZWRpYXRyaXBsZS5uZXQvdmlkZW9vbmx5bGl2ZS9tdGtnZXVpaHJsZndsaXZlL2Jyb2FkY2FzdF81YzllMmVlNjkwMDUxLnNtaWwvcGxheWxpc3QubTN1OA
+#EXTINF:-1 tvg-name="FASHION ONE" group-title="Entertainment",FASHION ONE
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9iMDFjMDJubC5tZWRpYXRyaXBsZS5uZXQvdmlkZW9vbmx5bGl2ZS9tdGtnZXVpaHJsZndsaXZlL3Vfc3RyZWFtXzVjOWUyZWU2OTk3Y2JfMS9wbGF5bGlzdC5tM3U4
 #EXTINF:-1 tvg-name="Peace TV Urdu" group-title="Relagion Channel",Peace TV Urdu
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9kemt5dmxmeWdlLmVyYnZyLmNvbS9QZWFjZVR2VXJkdS9pbmRleC5tM3U4
-#EXTINF:-1 tvg-name="Nursary Rhymes" group-title="Kids",Nursary Rhymes
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzIzLjIzNy4xMDQuMTA2OjgwODAvVVNBX05JQ0tFTE9ERU9OL2luZGV4Lm0zdTg
+#EXTINF:-1 tvg-name="Press TV Iran" group-title="NEWS INTERNASIONAL TV",Press TV Iran
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlLnByZXNzdHYuaXIvaGxzL3ByZXNzdHZfNV80ODIvaW5kZXgubTN1OA
+#EXTINF:-1 tvg-name="Dhoom Music" group-title="Kolkata Bangla Music",Dhoom Music
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzM3OC8zNzhfMC5tM3U4
+#EXTINF:-1 tvg-name="Sochi 24 HD" group-title="Infotainment Channels",Sochi 24 HD
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL3NlcnYzMC52aW50ZXJhLnR2OjgwODEvc29jaGkvc29jaGkyNF90di9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-name="Greenland 2: Migration (2026) (Hindi)" group-title="English Movies",Greenland 2: Migration (2026) (Hindi)
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL3ByZW1pbXVtLm9ubGluZS9tb3ZpZS9qZW4xMjM0NS9qZW41NDMyMS83MTc3NDYubXA0
+#EXTINF:-1 tvg-name="Freelancer" group-title="English Movies",Freelancer
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL3ByZW1pbXVtLm9ubGluZS9tb3ZpZS9qZW4xMjM0NS9qZW41NDMyMS8zNTM3NTEubXA0
+#EXTINF:-1 tvg-name="Hindi Hits HD" group-title="Hindi Music",Hindi Hits HD
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzE0Ni41OS4yNTMuNTI6ODA4MC9oaW5kaWhpdHNoZC9pbmRleC5tM3U4
+#EXTINF:-1 tvg-name="Channel 7" group-title="Utrun Broadband",Channel 7
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4xMy4xOTMuMTk0OjgwODIvVC1TUE9SVFMtSEQvdmlkZW8ubTN1OD90b2tlbj1SdXNyaVJNLUw3M0czMw
+#EXTINF:-1 tvg-name="Jana Nayagan (2026) (Hindi)" group-title="Hindi Dabbing Movies",Jana Nayagan (2026) (Hindi)
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL3ByZW1pbXVtLm9ubGluZS9tb3ZpZS9qZW4xMjM0NS9qZW41NDMyMS83MjQ0ODkubXA0
+#EXTINF:-1 tvg-name="Zee Anmol TV" group-title="Hindi Movies",Zee Anmol TV
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzI1Ni8yNTZfMC5tM3U4
+#EXTINF:-1 tvg-name="Rongeen TV" group-title="Kids",Rongeen TV
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9zZXJ2ZXIudGhlbGVnaXRwcm8uaW4vcm9uZ2VlbnR2L3JvbmdlZW50di90cmFja3MtdjFhMS9tb25vLm0zdTg
+#EXTINF:-1 tvg-name="Sheemaroo Bollywood" group-title="Hindi Movies",Sheemaroo Bollywood
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9jZG4tdXcyLXByb2QudHN2Mi5hbWFnaS50di9saW5lYXIvYW1nMDA4NjQtc2hlbWFyb29lbnRlcnRhLXNoZW1hYm9sbHl3b29kLW9uby9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-name="Big Magic" group-title="Hindi",Big Magic
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzEzLzEzXzAubTN1OA
+#EXTINF:-1 tvg-name="Goldmines Bollywood" group-title="Hindi Movies",Goldmines Bollywood
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzUyLzUyXzAubTN1OA
+#EXTINF:-1 tvg-name="Zee Action" group-title="Hindi Movies",Zee Action
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzI3MC8yNzBfMC5tM3U4
+#EXTINF:-1 tvg-name="Star Sports 1 HD" group-title="Sports",Star Sports 1 HD
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzQxLjIwNS45My4xNTQvU1RBUlNQT1JUUzEvaW5kZXgubTN1OA
 #EXTINF:-1 tvg-name="Surongo" group-title="Bangla Movies",Surongo
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9wdWItZDhmNWFmN2YwNTMzNDNlZDgyOTViMTZhMTQ1ZjZjMWMucjIuZGV2L3NpYW0vW0ZHQkRWaWJlc11TdXJvbmdvLigyMDIzKS40ODBwLm1rdg
+#EXTINF:-1 tvg-name="Action Hollywood Movies" group-title="English Movies",Action Hollywood Movies
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hbWcwMTA3Ni1saWdodG5pbmdpbnRlcm4tYWN0aW9uaG9sbHl3b29kLXNhbXN1bmduei04MnJyeS5hbWFnaS50di9wbGF5bGlzdC9hbWcwMTA3Ni1saWdodG5pbmdpbnRlcm4tYWN0aW9uaG9sbHl3b29kLXNhbXN1bmduei9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-name="Nursary Rhymes" group-title="Kids",Nursary Rhymes
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzIzLjIzNy4xMDQuMTA2OjgwODAvVVNBX05JQ0tFTE9ERU9OL2luZGV4Lm0zdTg
+#EXTINF:-1 tvg-name="Music Mastii" group-title="MUSIC",Music Mastii
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0dnBsYXlvdXQ3L2dpYXR2LTIwOTU5Mi90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg
 #EXTINF:-1 tvg-name="Food Food" group-title="Information",Food Food
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzE0My8xNDNfMC5tM3U4
-#EXTINF:-1 tvg-name="AAKASH AATH" group-title="Kolkata Bangla",AAKASH AATH
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9jZG4tNC5waXNob3cudHYvbGl2ZS85NjkvbWFzdGVyLm0zdTg
+#EXTINF:-1 tvg-name="B4U Movies" group-title="Hindi",B4U Movies
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hbWcwMDg3Ny1iNHVuZXctYW1nMDA4NzdjMi14aWFvbWktaW4tNTQ4OS5wbGF5b3V0cy5ub3cuYW1hZ2kudHYvcGxheWxpc3QubTN1OA
 #EXTINF:-1 tvg-name="9XM" group-title="Hindi Music",9XM
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzE1NS8xNTVfMC5tM3U4
+#EXTINF:-1 tvg-name="Baallee" group-title="MUSIC",Baallee
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9tY25jZG5kaWdpdGFsLmNvbS9iYWxsZWJhbGxldHYvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4
 #EXTINF:-1 tvg-name="E24" group-title="Hindi Music",E24
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzE1OS8xNTlfMC5tM3U4
-#EXTINF:-1 tvg-name="YRF Music HD" group-title="Unknown",YRF Music HD
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9jZG4tdXcyLXByb2QudHN2Mi5hbWFnaS50di9saW5lYXIvYW1nMDE0MTIteGlhb21pYXNpYS15cmZtdXNpYy14aWFvbWkvcGxheWxpc3QubTN1OA
-#EXTINF:-1 tvg-name="Music India" group-title="Hindi Music",Music India
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzE1OC8xNThfMC5tM3U4
+#EXTINF:-1 tvg-name="Animal Planet HD" group-title="Information",Animal Planet HD
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly90aWdlci1odWIudmVyY2VsLmFwcEB2b2R6b25nLm1qdW5vb24udHY6ODA4Ny9zdHJlYW10ZXN0L0FuaW1hbC1QbGFuZXQtMTU4LTMvcGxheWxpc3QubTN1OA
+#EXTINF:-1 tvg-name="RTV" group-title="BANGLA",RTV
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAyNC5qYWdvYmQuY29tLmJkL2MzVnlkbVZ5WDhScGJFVTlNaTh4Tnk4eU1GREVFSEdjZlJnelE2TlRBZ2RFb2FlRnpiRjkyWVd4SVpUTzBVMGV6TjFJek15ZnZjRWRzRWZlRGVLaU5rVk4zUFRPbWRGc2VXUnRhVzUxYWlQaG5QVEkyL3J0di1zZy5zdHJlYW0vdHJhY2tzLXYxYTEvbW9uby5tM3U4
+#EXTINF:-1 tvg-name="GAZI TV" group-title="BANGLA",GAZI TV
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAyNC5qYWdvYmQuY29tLmJkL2MzVnlkbVZ5WDhScGJFVTlNaTh4Tnk4eU1GREVFSEdjZlJnelE2TlRBZ2RFb2FlRnpiRjkyWVd4SVpUTzBVMGV6TjFJek15ZnZjRWRzRWZlRGVLaU5rVk4zUFRPbWRGc2VXUnRhVzUxYWlQaG5QVEkyL2dhemliZHouc3RyZWFtL3RyYWNrcy12MWExL21vbm8ubTN1OA
+#EXTINF:-1 tvg-name="AAKASH AATH" group-title="Kolkata Bangla",AAKASH AATH
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9jZG4tNC5waXNob3cudHYvbGl2ZS85NjkvbWFzdGVyLm0zdTg
 #EXTINF:-1 tvg-name="NHK World" group-title="English News",NHK World
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzQxNy80MTdfMC5tM3U4
 #EXTINF:-1 tvg-name="Times Of India" group-title="NEWS INTERNASIONAL TV",Times Of India
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlLnNsaS5rZS9saXZlL25wbmhtODRnejkvbWFzdGVyLm0zdTg
-#EXTINF:-1 tvg-name="Mardaani 3" group-title="Movies",Mardaani 3
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4yMjUuOTQuMjcvSW5mb2Jhc2UvaGRkLTMvaGluZGkvTWFyZGFhbmklMjAzJTIwKDIwMjYpJTIwMTA4MHAlMjBEVkRSaXAubXA0
-#EXTINF:-1 tvg-name="Antarjal" group-title="Bangla Movies",Antarjal
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4yMjUuOTQuMjcvSW5mb2Jhc2UvaGRkLTIvQmFuZ2xhL0FudGFyamFsJTIwKDIwMjMpJTIwMTA4MHAlMjBXRUJETC5tcDQ
-#EXTINF:-1 tvg-name="Music Mastii" group-title="MUSIC",Music Mastii
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0dnBsYXlvdXQ3L2dpYXR2LTIwOTU5Mi90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg
-#EXTINF:-1 tvg-name="B4U Movies" group-title="Hindi",B4U Movies
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hbWcwMDg3Ny1iNHVuZXctYW1nMDA4NzdjMi14aWFvbWktaW4tNTQ4OS5wbGF5b3V0cy5ub3cuYW1hZ2kudHYvcGxheWxpc3QubTN1OA
-#EXTINF:-1 tvg-name="Baallee" group-title="MUSIC",Baallee
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9tY25jZG5kaWdpdGFsLmNvbS9iYWxsZWJhbGxldHYvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4
-#EXTINF:-1 tvg-name="Goldmines Movies" group-title="Hindi Movies",Goldmines Movies
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9jZG4tMi5waXNob3cudHYvbGl2ZS8xNDYxL21hc3Rlci5tM3U4
-#EXTINF:-1 tvg-name="Test" group-title="Movies",Test
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4yMjUuOTQuMjcvSW5mb2Jhc2UvaGRkLTMvSGluZGklMjBEdWIvVGVzdCUyMCgyMDI1KSUyMDEwODBwJTIwV0VCREwubXA0
-#EXTINF:-1 tvg-name="GAZI TV" group-title="BANGLA",GAZI TV
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAyNC5qYWdvYmQuY29tLmJkL2MzVnlkbVZ5WDhScGJFVTlNaTh4Tnk4eU1GREVFSEdjZlJnelE2TlRBZ2RFb2FlRnpiRjkyWVd4SVpUTzBVMGV6TjFJek15ZnZjRWRzRWZlRGVLaU5rVk4zUFRPbWRGc2VXUnRhVzUxYWlQaG5QVEkyL2dhemliZHouc3RyZWFtL3RyYWNrcy12MWExL21vbm8ubTN1OA
-#EXTINF:-1 tvg-name="RTV" group-title="BANGLA",RTV
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAyNC5qYWdvYmQuY29tLmJkL2MzVnlkbVZ5WDhScGJFVTlNaTh4Tnk4eU1GREVFSEdjZlJnelE2TlRBZ2RFb2FlRnpiRjkyWVd4SVpUTzBVMGV6TjFJek15ZnZjRWRzRWZlRGVLaU5rVk4zUFRPbWRGc2VXUnRhVzUxYWlQaG5QVEkyL3J0di1zZy5zdHJlYW0vdHJhY2tzLXYxYTEvbW9uby5tM3U4
+#EXTINF:-1 tvg-name="Music India" group-title="Hindi Music",Music India
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4xNzUuNzMuMTI6ODA4MC9saXZlLzE1OC8xNThfMC5tM3U4
+#EXTINF:-1 tvg-name="YRF Music HD" group-title="Unknown",YRF Music HD
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9jZG4tdXcyLXByb2QudHN2Mi5hbWFnaS50di9saW5lYXIvYW1nMDE0MTIteGlhb21pYXNpYS15cmZtdXNpYy14aWFvbWkvcGxheWxpc3QubTN1OA
 #EXTINF:-1 tvg-name="MBC tv" group-title="Hindi",MBC tv
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzkzLjE4NC4xMC4yNDgvTUJDQm9sbHl3b29kL2luZGV4Lm0zdTg
-#EXTINF:-1 tvg-name="Animal Planet HD" group-title="Information",Animal Planet HD
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly90aWdlci1odWIudmVyY2VsLmFwcEB2b2R6b25nLm1qdW5vb24udHY6ODA4Ny9zdHJlYW10ZXN0L0FuaW1hbC1QbGFuZXQtMTU4LTMvcGxheWxpc3QubTN1OA
+#EXTINF:-1 tvg-name="Live Sports-10" group-title="SPORTS",Live Sports-10
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL3VhMTAyLm9ubGluZTI0LnBtOjgyMjIvMTEwMS92aWRlby5tM3U4P3Rva2VuPTM1MEIzMjZGQjM0RjRCOA
 #EXTINF:-1 tvg-name="Rajdhani tv" group-title="BANGLA",Rajdhani tv
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAyNC5qYWdvYmQuY29tLmJkL2MzVnlkbVZ5WDhScGJFVTlNaTh4Tnk4eU1GREVFSEdjZlJnelE2TlRBZ2RFb2FlRnpiRjkyWVd4SVpUTzBVMGV6TjFJek15ZnZjRWRzRWZlRGVLaU5rVk4zUFRPbWRGc2VXUnRhVzUxYWlQaG5QVEkyL2F5bmEuc3RyZWFtL3RyYWNrcy12MWExL21vbm8ubTN1OA
+#EXTINF:-1 tvg-name="Antarjal" group-title="Bangla Movies",Antarjal
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4yMjUuOTQuMjcvSW5mb2Jhc2UvaGRkLTIvQmFuZ2xhL0FudGFyamFsJTIwKDIwMjMpJTIwMTA4MHAlMjBXRUJETC5tcDQ
 #EXTINF:-1 tvg-name="Channel S" group-title="BANGLA",Channel S
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hcHAyNC5qYWdvYmQuY29tLmJkL2MzVnlkbVZ5WDhScGJFVTlNaTh4Tnk4eU1GREVFSEdjZlJnelE2TlRBZ2RFb2FlRnpiRjkyWVd4SVpUTzBVMGV6TjFJek15ZnZjRWRzRWZlRGVLaU5rVk4zUFRPbWRGc2VXUnRhVzUxYWlQaG5QVEkyL2NoYW5uZWxzLnN0cmVhbS9wbGF5bGlzdC5tM3U4
-#EXTINF:-1 tvg-name="Goldmines Movies 2" group-title="Hindi Movies",Goldmines Movies 2
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9jZG4tMi5waXNob3cudHYvbGl2ZS8xNDYwL21hc3Rlci5tM3U4
 #EXTINF:-1 tvg-name="Cowboy tv" group-title="SPORTS",Cowboy tv
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hbWcxNzI5Mi1hbWcxNzI5MmMxLWRpc3Ryb3R2LXVzLTQxNzAucGxheW91dHMubm93LmFtYWdpLnR2L3BsYXlsaXN0L2FtZzE3MjkyLXRldG9ucmlkZ2VsbGMtdGV0b25yaWRnZWZhc3QtZGlzdHJvdHZ1cy9wbGF5bGlzdC5tM3U4
+#EXTINF:-1 tvg-name="Mardaani 3" group-title="Movies",Mardaani 3
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4yMjUuOTQuMjcvSW5mb2Jhc2UvaGRkLTMvaGluZGkvTWFyZGFhbmklMjAzJTIwKDIwMjYpJTIwMTA4MHAlMjBEVkRSaXAubXA0
+#EXTINF:-1 tvg-name="Test" group-title="Movies",Test
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4yMjUuOTQuMjcvSW5mb2Jhc2UvaGRkLTMvSGluZGklMjBEdWIvVGVzdCUyMCgyMDI1KSUyMDEwODBwJTIwV0VCREwubXA0
 #EXTINF:-1 tvg-name="South Movies" group-title="Hindi | 24/7",South Movies
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlMjAuYm96enR2LmNvbS9naWF0dnBsYXlvdXQ3L2dpYXR2LTIwOTU5My90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg
+#EXTINF:-1 tvg-name="Kolkata TV" group-title="Indian Bangla News",Kolkata TV
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9jZG4ub3R0bGl2ZS5jby5pbi9rb2xrYXRhdHYvaW5kZXgubTN1OA
+#EXTINF:-1 tvg-name="Goldmines Movies 2" group-title="Hindi Movies",Goldmines Movies 2
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9jZG4tMi5waXNob3cudHYvbGl2ZS8xNDYwL21hc3Rlci5tM3U4
+#EXTINF:-1 tvg-name="Cartoon Network English" group-title="Kids",Cartoon Network English
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly92b2R6b25nLm1qdW5vb24udHY6ODA4Ny9zdHJlYW10ZXN0L2NhcnRvb24tbmV0d29yay04Ny9wbGF5bGlzdC5tM3U4
 #EXTINF:-1 tvg-name="T-Sports [3]" group-title="SPORTS",T-Sports [3]
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4xNjUuOTMuMzE6ODA5NS90c3BvcnRzL3RyYWNrcy12MWExL21vbm8ubTN1OA
 #EXTINF:-1 tvg-name="T-Sports [2]" group-title="SPORTS",T-Sports [2]
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovLzEwMy4xNjUuOTMuMzE6ODA5NS90c3BvcnRzL3RyYWNrcy12MWExYTIvbW9uby5tM3U4
-#EXTINF:-1 tvg-name="Live Sports-10" group-title="SPORTS",Live Sports-10
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cDovL3VhMTAyLm9ubGluZTI0LnBtOjgyMjIvMTEwMS92aWRlby5tM3U4P3Rva2VuPTM1MEIzMjZGQjM0RjRCOA
 #EXTINF:-1 tvg-name="R Plus Gould" group-title="Indian-Bangla",R Plus Gould
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9jZG4tNC5waXNob3cudHYvbGl2ZS8xMjMxLzEyMzFfMi5tM3U4
-#EXTINF:-1 tvg-name="Cartoon Network English" group-title="Kids",Cartoon Network English
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly92b2R6b25nLm1qdW5vb24udHY6ODA4Ny9zdHJlYW10ZXN0L2NhcnRvb24tbmV0d29yay04Ny9wbGF5bGlzdC5tM3U4
-#EXTINF:-1 tvg-name="RTNEWS GLOBAL" group-title="NEWS INTERNASIONAL",RTNEWS GLOBAL
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9ydC1ydGQucnR0di5jb20vZHZyL3J0ZG9jL3BsYXlsaXN0Lm0zdTg_dj0x
 #EXTINF:-1 tvg-name="Akash Aath" group-title="Indian-Bangla",Akash Aath
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9saXZlLnRoZWJvc3N0di5jb206MzA0NDMvZHdsaXZlL0FBS0FBU0gtQUFUSC9jaHVua3MubTN1OA
-#EXTINF:-1 tvg-name="Kolkata TV" group-title="Indian Bangla News",Kolkata TV
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9jZG4ub3R0bGl2ZS5jby5pbi9rb2xrYXRhdHYvaW5kZXgubTN1OA
+#EXTINF:-1 tvg-name="RTNEWS GLOBAL" group-title="NEWS INTERNASIONAL",RTNEWS GLOBAL
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9ydC1ydGQucnR0di5jb20vZHZyL3J0ZG9jL3BsYXlsaXN0Lm0zdTg_dj0x
+#EXTINF:-1 tvg-name="A SPOR" group-title="Football",A SPOR
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9ybnR0d21qY2luLnR1cmtuZXQuZXJjZG4ubmV0L2xjcG12ZWZieW8vYXNwb3IvYXNwb3JfNDgwcC5tM3U4
 #EXTINF:-1 tvg-name="RT News (EN)" group-title="NEWS INTERNASIONAL",RT News (EN)
 https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9ydC1nbGIucnR0di5jb20vbGl2ZS9ydG5ld3MvcGxheWxpc3QubTN1OA
-#EXTINF:-1 tvg-name="RT NEWS USA" group-title="NEWS INTERNASIONAL",RT NEWS USA
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9ydC1nbGIucnR0di5jb20vbGl2ZS9ydG5ld3MvcGxheWxpc3QubTN1OD92PTE
-#EXTINF:-1 tvg-name="Arihant TV" group-title="Relagion Channel",Arihant TV
-https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9hYXN0aGFvdHQuYWthbWFpemVkLm5ldC8xMTA5MjMvc21pbDphcmloYW50LnNtaWwvY2h1bmtsaXN0X2IxOTI4MDAwLm0zdTg
+#EXTINF:-1 tvg-name="Goldmines Movies" group-title="Hindi Movies",Goldmines Movies
+https://go.skym3u.top/4uc9.m3u?channel=aHR0cHM6Ly9jZG4tMi5waXNob3cudHYvbGl2ZS8xNDYxL21hc3Rlci5tM3U4
