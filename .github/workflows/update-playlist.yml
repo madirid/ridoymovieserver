@@ -1,9 +1,9 @@
 name: Update Playlist
 
 on:
-schedule:
-    - cron: '0 13 1-7 * 5'   # First Friday of the month, at 5:00 PM DXB time
-    - cron: '0 13 15-21 * 5' # Third Friday of the month, at 5:00 PM DXB time
+  schedule:
+    - cron: '0 */12 * * *'   # Every 12 hours
+  workflow_dispatch:           # Manual trigger button
 
 permissions:
   contents: write
@@ -34,7 +34,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add ridoymovieserver2.m3u
+          git add ridoymovieserver.m3u
           if git diff --staged --quiet; then
             echo "No changes – skipping commit."
           else
